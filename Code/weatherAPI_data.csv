@@ -1,549 +1,555 @@
-The outcome data of East London, ZA: Lat & Lon --> -33.0153,27.9116 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 18.79 & 18.79 & 18.79 Humidity: 72 Clouds: 99 Wind Speed: 6.02
-The outcome data of Dikson, RU: Lat & Lon --> 73.5069,80.5464 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -23.18 & -23.18 & -23.18 Humidity: 96 Clouds: 13 Wind Speed: 1.27
-The outcome data of Arraial do Cabo, BR: Lat & Lon --> -22.9661,-42.0278 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 20.3 & 20.3 & 20.3 Humidity: 59 Clouds: 73 Wind Speed: 5.08
-The outcome data of Deputatsky, RU: Lat & Lon --> 69.3,139.9 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -22.91 & -22.91 & -22.91 Humidity: 100 Clouds: 100 Wind Speed: 0.74
-The outcome data of Bredasdorp, ZA: Lat & Lon --> -34.5322,20.0403 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 13.49 & 13.49 & 13.49 Humidity: 88 Clouds: 52 Wind Speed: 1.12
-The outcome data of Torbay, CA: Lat & Lon --> 47.6666,-52.7314 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 7.55 & 8.49 & 6.88 Humidity: 92 Clouds: 90 Wind Speed: 12.35
-The outcome data of Nikolskoye, RU: Lat & Lon --> 59.7035,30.7861 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 2.23 & 3.26 & 0.99 Humidity: 96 Clouds: 100 Wind Speed: 1.57
-The outcome data of Dingle, PH: Lat & Lon --> 10.9995,122.6711 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 24.66 & 24.66 & 24.66 Humidity: 93 Clouds: 95 Wind Speed: 2.79
-The outcome data of Isangel, VU: Lat & Lon --> -19.55,169.2667 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 29.06 & 29.06 & 29.06 Humidity: 79 Clouds: 75 Wind Speed: 2.57
-The outcome data of Avarua, CK: Lat & Lon --> -21.2078,-159.775 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 23.03 & 23.03 & 23.03 Humidity: 88 Clouds: 40 Wind Speed: 2.06
-The outcome data of São Geraldo do Araguaia, BR: Lat & Lon --> -6.4006,-48.555 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 28 & 28 & 28 Humidity: 63 Clouds: 96 Wind Speed: 0.35
-The outcome data of Yellowknife, CA: Lat & Lon --> 62.456,-114.3525 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -1.66 & -1.44 & -2.06 Humidity: 100 Clouds: 90 Wind Speed: 4.12
-The outcome data of Srednekolymsk, RU: Lat & Lon --> 67.45,153.6833 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -13.48 & -13.48 & -13.48 Humidity: 96 Clouds: 100 Wind Speed: 3
-The outcome data of Kidal, ML: Lat & Lon --> 18.4411,1.4078 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 26.25 & 26.25 & 26.25 Humidity: 12 Clouds: 98 Wind Speed: 5.01
-The outcome data of Ushuaia, AR: Lat & Lon --> -54.8,-68.3 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 14.81 & 14.81 & 14.81 Humidity: 29 Clouds: 40 Wind Speed: 4.12
-The outcome data of Kisi, NG: Lat & Lon --> 9.0833,3.85 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 25.94 & 25.94 & 25.94 Humidity: 58 Clouds: 8 Wind Speed: 1.28
-The outcome data of Saint-Philippe, RE: Lat & Lon --> -21.3585,55.7679 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 22.77 & 24.75 & 21.93 Humidity: 84 Clouds: 92 Wind Speed: 5.23
-The outcome data of Albany, US: Lat & Lon --> 42.6001,-73.9662 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 3.58 & 5.21 & 1.32 Humidity: 88 Clouds: 98 Wind Speed: 1.34
-The outcome data of Marsh Harbour, BS: Lat & Lon --> 26.5412,-77.0636 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 26.32 & 26.32 & 26.32 Humidity: 69 Clouds: 75 Wind Speed: 3.7
-The outcome data of Provideniya, RU: Lat & Lon --> 64.3833,-173.3 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -4.4 & -4.4 & -4.4 Humidity: 97 Clouds: 99 Wind Speed: 1.33
-The outcome data of Shelburne, CA: Lat & Lon --> 44.0787,-80.2041 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 1.48 & 4.04 & 0.69 Humidity: 100 Clouds: 85 Wind Speed: 6.99
-The outcome data of Fallon, US: Lat & Lon --> 39.4735,-118.7774 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 17.24 & 19.12 & 16.93 Humidity: 43 Clouds: 20 Wind Speed: 2.57
-The outcome data of Qasigiannguit, GL: Lat & Lon --> 68.8193,-51.1922 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -25.21 & -25.21 & -25.21 Humidity: 87 Clouds: 6 Wind Speed: 2.93
-The outcome data of Chapais, CA: Lat & Lon --> 49.7834,-74.8492 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 1.88 & 1.88 & 1.88 Humidity: 99 Clouds: 100 Wind Speed: 0.51
-The outcome data of Tías, ES: Lat & Lon --> 28.9611,-13.645 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 17.82 & 17.86 & 17.82 Humidity: 68 Clouds: 20 Wind Speed: 3.09
-The outcome data of Tual, ID: Lat & Lon --> -5.6667,132.75 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 28.85 & 28.85 & 28.85 Humidity: 72 Clouds: 80 Wind Speed: 2.84
-The outcome data of Le Port, RE: Lat & Lon --> -20.9373,55.2919 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 22.94 & 24.98 & 22.16 Humidity: 89 Clouds: 100 Wind Speed: 3.21
-The outcome data of Lata, PT: Lat & Lon --> 40.1629,-8.3327 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 12.35 & 13.78 & 9.48 Humidity: 72 Clouds: 75 Wind Speed: 1.54
-The outcome data of Busselton, AU: Lat & Lon --> -33.65,115.3333 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 12.25 & 12.25 & 10.6 Humidity: 67 Clouds: 30 Wind Speed: 7.59
-The outcome data of Leningradskiy, RU: Lat & Lon --> 69.3833,178.4167 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -14.06 & -14.06 & -14.06 Humidity: 97 Clouds: 98 Wind Speed: 2.22
-The outcome data of Ribeira Grande, PT: Lat & Lon --> 38.5167,-28.7 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 17.53 & 17.53 & 17.53 Humidity: 64 Clouds: 100 Wind Speed: 8.07
-The outcome data of Fairbanks, US: Lat & Lon --> 64.8378,-147.7164 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -18.28 & -15.98 & -21.81 Humidity: 78 Clouds: 40 Wind Speed: 0
-The outcome data of Chokurdakh, RU: Lat & Lon --> 70.6333,147.9167 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -19.52 & -19.52 & -19.52 Humidity: 89 Clouds: 100 Wind Speed: 4.33
-The outcome data of Port Blair, IN: Lat & Lon --> 11.6667,92.75 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 26.21 & 26.21 & 26.21 Humidity: 79 Clouds: 99 Wind Speed: 1.32
-The outcome data of Tuktoyaktuk, CA: Lat & Lon --> 69.4541,-133.0374 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -7 & -7 & -7 Humidity: 86 Clouds: 90 Wind Speed: 7.2
-The outcome data of Adamovka, RU: Lat & Lon --> 51.5223,59.9396 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -2.82 & -2.82 & -2.82 Humidity: 95 Clouds: 99 Wind Speed: 6.2
-The outcome data of Chauk, MM: Lat & Lon --> 20.8833,94.8167 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 25.24 & 25.24 & 25.24 Humidity: 82 Clouds: 100 Wind Speed: 0.61
-The outcome data of Wattegama, LK: Lat & Lon --> 6.7989,81.4808 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 23.9 & 23.9 & 23.9 Humidity: 86 Clouds: 100 Wind Speed: 0.49
-The outcome data of Bambous Virieux, MU: Lat & Lon --> -20.3428,57.7575 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 24.14 & 24.56 & 24.14 Humidity: 83 Clouds: 40 Wind Speed: 5.14
-The outcome data of Lüderitz, NA: Lat & Lon --> -26.6481,15.1594 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 19.67 & 19.67 & 19.67 Humidity: 58 Clouds: 6 Wind Speed: 7.75
-The outcome data of San Jose, US: Lat & Lon --> 37.3394,-121.895 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 23.61 & 27 & 18.18 Humidity: 49 Clouds: 20 Wind Speed: 0.45
-The outcome data of Punta Arenas, CL: Lat & Lon --> -53.15,-70.9167 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 12.06 & 12.06 & 11.73 Humidity: 50 Clouds: 90 Wind Speed: 4.63
-The outcome data of Mackay, AU: Lat & Lon --> -21.15,149.2 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 25.38 & 27.25 & 25.38 Humidity: 44 Clouds: 34 Wind Speed: 4.48
-The outcome data of Banikoara, BJ: Lat & Lon --> 11.2985,2.4386 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 27.34 & 27.34 & 27.34 Humidity: 32 Clouds: 21 Wind Speed: 1.65
-The outcome data of Zhangaözen, KZ: Lat & Lon --> 43.3,52.8 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 4.76 & 4.76 & 4.76 Humidity: 84 Clouds: 88 Wind Speed: 5.65
-The outcome data of Rikitea, PF: Lat & Lon --> -23.1203,-134.9692 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 22.97 & 22.97 & 22.97 Humidity: 73 Clouds: 47 Wind Speed: 5.6
-The outcome data of Saint George, US: Lat & Lon --> 37.1041,-113.5841 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 21.94 & 26.26 & 19.88 Humidity: 27 Clouds: 1 Wind Speed: 0.89
-The outcome data of Boissevain, CA: Lat & Lon --> 49.2306,-100.0559 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -4.64 & -3.86 & -4.72 Humidity: 96 Clouds: 100 Wind Speed: 4.55
-The outcome data of Vaini, TO: Lat & Lon --> -21.2,-175.2 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 26.09 & 26.09 & 26.09 Humidity: 78 Clouds: 40 Wind Speed: 4.63
-The outcome data of Jamestown, US: Lat & Lon --> 42.097,-79.2353 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 1.45 & 3.62 & 0.8 Humidity: 99 Clouds: 90 Wind Speed: 4.02
-The outcome data of Luanda, AO: Lat & Lon --> -8.8368,13.2343 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 26 & 26 & 26 Humidity: 78 Clouds: 40 Wind Speed: 3.6
-The outcome data of Hithadhoo, MV: Lat & Lon --> -0.6,73.0833 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 27.78 & 27.78 & 27.78 Humidity: 76 Clouds: 82 Wind Speed: 6.2
-The outcome data of Grand Gaube, MU: Lat & Lon --> -20.0064,57.6608 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 24.65 & 24.65 & 24.22 Humidity: 72 Clouds: 32 Wind Speed: 2.68
-The outcome data of Opunake, NZ: Lat & Lon --> -39.4556,173.8583 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 21.3 & 21.3 & 16.46 Humidity: 96 Clouds: 97 Wind Speed: 8.34
-The outcome data of Bluff, NZ: Lat & Lon --> -46.6,168.3333 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 9.98 & 9.98 & 9.98 Humidity: 89 Clouds: 100 Wind Speed: 4.62
-The outcome data of Whitehorse, CA: Lat & Lon --> 60.7161,-135.0538 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -1.82 & -1.57 & -2.72 Humidity: 74 Clouds: 75 Wind Speed: 4.92
-The outcome data of Port Alfred, ZA: Lat & Lon --> -33.5906,26.891 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 17.27 & 17.27 & 17.27 Humidity: 87 Clouds: 54 Wind Speed: 6.72
-The outcome data of Whitianga, NZ: Lat & Lon --> -36.8333,175.7 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 20.57 & 20.57 & 20.57 Humidity: 98 Clouds: 100 Wind Speed: 5.09
-The outcome data of Hobart, AU: Lat & Lon --> -42.8794,147.3294 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 11.04 & 11.81 & 9.04 Humidity: 68 Clouds: 75 Wind Speed: 1.34
-The outcome data of Anloga, GH: Lat & Lon --> 5.7947,0.8973 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 28.12 & 28.12 & 28.12 Humidity: 79 Clouds: 7 Wind Speed: 4.91
-The outcome data of Constitución, CL: Lat & Lon --> -35.3333,-72.4167 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 13.62 & 13.62 & 13.62 Humidity: 65 Clouds: 0 Wind Speed: 8.68
-The outcome data of Hong Kong, HK: Lat & Lon --> 22.2855,114.1577 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 19.35 & 20.74 & 17.98 Humidity: 60 Clouds: 6 Wind Speed: 0.89
-The outcome data of Hamilton, US: Lat & Lon --> 39.1834,-84.5333 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 3.88 & 4.77 & 2.55 Humidity: 74 Clouds: 90 Wind Speed: 1.34
-The outcome data of Airai, TL: Lat & Lon --> -8.9266,125.4092 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 17.6 & 17.6 & 17.6 Humidity: 89 Clouds: 100 Wind Speed: 0.56
-The outcome data of Puerto Ayora, EC: Lat & Lon --> -0.7393,-90.3518 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 24.98 & 24.98 & 24.98 Humidity: 77 Clouds: 18 Wind Speed: 4.75
-The outcome data of Preobrazheniye, RU: Lat & Lon --> 42.9019,133.9064 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 4.72 & 4.72 & 4.72 Humidity: 79 Clouds: 49 Wind Speed: 3.69
-The outcome data of Walvis Bay, NA: Lat & Lon --> -22.9575,14.5053 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 14.53 & 14.53 & 14.49 Humidity: 88 Clouds: 6 Wind Speed: 3.6
-The outcome data of Qaanaaq, GL: Lat & Lon --> 77.484,-69.3632 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -22.68 & -22.68 & -22.68 Humidity: 54 Clouds: 0 Wind Speed: 3.72
-The outcome data of Acaraú, BR: Lat & Lon --> -2.8856,-40.12 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 27.23 & 27.23 & 27.23 Humidity: 78 Clouds: 37 Wind Speed: 6.2
-The outcome data of Athabasca, CA: Lat & Lon --> 54.7169,-113.2854 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 6.5 & 7.9 & 6.23 Humidity: 46 Clouds: 11 Wind Speed: 8
-The outcome data of Salalah, OM: Lat & Lon --> 17.0151,54.0924 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 25.05 & 25.05 & 25.05 Humidity: 50 Clouds: 0 Wind Speed: 1.03
-The outcome data of Kavieng, PG: Lat & Lon --> -2.5744,150.7967 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 28.48 & 28.48 & 28.48 Humidity: 66 Clouds: 72 Wind Speed: 4.14
-The outcome data of Tasiilaq, GL: Lat & Lon --> 65.6145,-37.6368 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 0.09 & 0.09 & 0.09 Humidity: 92 Clouds: 100 Wind Speed: 13.47
-The outcome data of Beira, MZ: Lat & Lon --> -19.8436,34.8389 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 24.81 & 24.81 & 24.81 Humidity: 88 Clouds: 93 Wind Speed: 2.13
-The outcome data of Cabedelo, BR: Lat & Lon --> -6.9811,-34.8339 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 27.37 & 27.37 & 27.37 Humidity: 67 Clouds: 67 Wind Speed: 6.15
-The outcome data of Opelousas, US: Lat & Lon --> 30.5335,-92.0815 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 15.06 & 16.01 & 13.83 Humidity: 36 Clouds: 1 Wind Speed: 3.6
-The outcome data of Vestmannaeyjar, IS: Lat & Lon --> 63.4427,-20.2734 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 9.88 & 9.88 & 9.88 Humidity: 89 Clouds: 100 Wind Speed: 15.43
-The outcome data of Corrente, BR: Lat & Lon --> -3.7367,-43.3394 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 27.81 & 27.81 & 27.81 Humidity: 65 Clouds: 96 Wind Speed: 1.14
-The outcome data of Mataura, NZ: Lat & Lon --> -46.1927,168.8643 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 9.2 & 9.2 & 9.2 Humidity: 99 Clouds: 100 Wind Speed: 0.51
-The outcome data of West Wendover, US: Lat & Lon --> 40.7391,-114.0733 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 16.56 & 16.56 & 16.56 Humidity: 36 Clouds: 1 Wind Speed: 2.57
-The outcome data of Chui, UY: Lat & Lon --> -33.6971,-53.4616 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 18.07 & 18.07 & 18.07 Humidity: 69 Clouds: 1 Wind Speed: 8.55
-The outcome data of Touros, BR: Lat & Lon --> -5.1989,-35.4608 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 27.5 & 27.5 & 27.5 Humidity: 81 Clouds: 52 Wind Speed: 7.47
-The outcome data of Hilo, US: Lat & Lon --> 19.7297,-155.09 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 24.99 & 28.22 & 24.03 Humidity: 88 Clouds: 90 Wind Speed: 3.6
-The outcome data of Lebu, CL: Lat & Lon --> -37.6167,-73.65 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 12.74 & 12.74 & 12.74 Humidity: 65 Clouds: 8 Wind Speed: 4.84
-The outcome data of Erzincan Province, TR: Lat & Lon --> 39.75,39.5 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -2.39 & -2.39 & -2.39 Humidity: 93 Clouds: 6 Wind Speed: 0.51
-The outcome data of Margate, GB: Lat & Lon --> 51.3813,1.3862 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 10.59 & 11.09 & 9.83 Humidity: 87 Clouds: 100 Wind Speed: 1.34
-The outcome data of Vodnyy, RU: Lat & Lon --> 63.5046,53.4095 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -9.58 & -9.58 & -9.58 Humidity: 94 Clouds: 26 Wind Speed: 2.08
-The outcome data of Anshun, CN: Lat & Lon --> 26.25,105.9333 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 6.84 & 6.84 & 6.84 Humidity: 73 Clouds: 100 Wind Speed: 1.44
-The outcome data of Kiruna, SE: Lat & Lon --> 67.8557,20.2251 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -12.5 & -12.5 & -12.5 Humidity: 90 Clouds: 41 Wind Speed: 2.12
-The outcome data of Diamantino, BR: Lat & Lon --> -14.4086,-56.4461 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 24.36 & 24.36 & 24.36 Humidity: 86 Clouds: 100 Wind Speed: 1.87
-The outcome data of Saint Paul Harbor, US: Lat & Lon --> 57.79,-152.4072 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -2.27 & -2.27 & -2.27 Humidity: 64 Clouds: 90 Wind Speed: 2.57
-The outcome data of Vila Velha, BR: Lat & Lon --> -20.3297,-40.2925 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 18.3 & 18.97 & 18.3 Humidity: 95 Clouds: 90 Wind Speed: 0.89
-The outcome data of San Cristobal, VE: Lat & Lon --> 7.7669,-72.225 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 25.1 & 25.1 & 25.1 Humidity: 70 Clouds: 82 Wind Speed: 0.21
-The outcome data of Atambua, ID: Lat & Lon --> -9.1061,124.8925 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 24.23 & 24.23 & 24.23 Humidity: 87 Clouds: 100 Wind Speed: 0.33
-The outcome data of Bosaso, SO: Lat & Lon --> 11.2842,49.1816 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 25.09 & 25.09 & 25.09 Humidity: 75 Clouds: 8 Wind Speed: 2.05
-The outcome data of Kungurtug, RU: Lat & Lon --> 50.5994,97.5228 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -11.28 & -11.28 & -11.28 Humidity: 90 Clouds: 91 Wind Speed: 0.88
-The outcome data of Jinka, ET: Lat & Lon --> 5.65,36.65 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 18.32 & 18.32 & 18.32 Humidity: 72 Clouds: 56 Wind Speed: 1.39
-The outcome data of Jalu, LY: Lat & Lon --> 29.0331,21.5482 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 19.75 & 19.75 & 19.75 Humidity: 52 Clouds: 92 Wind Speed: 4.47
-The outcome data of Avera, US: Lat & Lon --> 33.194,-82.5271 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 14.87 & 17.93 & 12.73 Humidity: 33 Clouds: 0 Wind Speed: 5.63
-The outcome data of Noumea, NC: Lat & Lon --> -22.2763,166.4572 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 27.78 & 29.99 & 27.78 Humidity: 99 Clouds: 8 Wind Speed: 2.52
-The outcome data of Porto-Novo, BJ: Lat & Lon --> 6.4965,2.6036 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 26.14 & 26.14 & 26.14 Humidity: 83 Clouds: 2 Wind Speed: 2.7
-The outcome data of Mahébourg, MU: Lat & Lon --> -20.4081,57.7 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 24.16 & 24.58 & 24.16 Humidity: 83 Clouds: 40 Wind Speed: 5.14
-The outcome data of Upernavik, GL: Lat & Lon --> 72.7868,-56.1549 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -14.58 & -14.58 & -14.58 Humidity: 93 Clouds: 97 Wind Speed: 2.22
-The outcome data of Grenfell, AU: Lat & Lon --> -33.9,148.1667 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 11.29 & 11.29 & 11.29 Humidity: 72 Clouds: 6 Wind Speed: 5.34
-The outcome data of Carutapera, BR: Lat & Lon --> -1.195,-46.02 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 26.55 & 26.55 & 26.55 Humidity: 78 Clouds: 66 Wind Speed: 3.27
-The outcome data of San Quintín, MX: Lat & Lon --> 30.4833,-115.95 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 24.85 & 24.85 & 24.85 Humidity: 34 Clouds: 8 Wind Speed: 3.55
-The outcome data of Dindori, IN: Lat & Lon --> 22.95,81.0833 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 17.29 & 17.29 & 17.29 Humidity: 82 Clouds: 33 Wind Speed: 1.53
-The outcome data of Sitka, US: Lat & Lon --> 57.0531,-135.33 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 4.94 & 4.94 & 4.94 Humidity: 75 Clouds: 90 Wind Speed: 3.6
-The outcome data of Ancud, CL: Lat & Lon --> -41.8697,-73.8203 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 12.74 & 13.57 & 12.74 Humidity: 74 Clouds: 13 Wind Speed: 5.04
-The outcome data of Atuona, PF: Lat & Lon --> -9.8,-139.0333 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 25.57 & 25.57 & 25.57 Humidity: 63 Clouds: 7 Wind Speed: 5.57
-The outcome data of Longyearbyen, SJ: Lat & Lon --> 78.2186,15.6401 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -13.09 & -13.09 & -13.09 Humidity: 61 Clouds: 40 Wind Speed: 6.69
-The outcome data of Bathsheba, BB: Lat & Lon --> 13.2167,-59.5167 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 27.34 & 27.34 & 27.34 Humidity: 78 Clouds: 40 Wind Speed: 7.72
-The outcome data of Angra dos Reis, BR: Lat & Lon --> -23.0067,-44.3181 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 19.98 & 19.98 & 19.98 Humidity: 83 Clouds: 96 Wind Speed: 1.4
-The outcome data of Kapaa, US: Lat & Lon --> 22.0752,-159.319 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 26.92 & 27.99 & 26.73 Humidity: 70 Clouds: 20 Wind Speed: 2.68
-The outcome data of Paraíso, CR: Lat & Lon --> 9.8383,-83.8656 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 21.1 & 23.48 & 20.79 Humidity: 82 Clouds: 55 Wind Speed: 1.96
-The outcome data of Castro, BR: Lat & Lon --> -24.7911,-50.0119 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 13.46 & 13.46 & 13.46 Humidity: 86 Clouds: 0 Wind Speed: 4.9
-The outcome data of Coquimbo, CL: Lat & Lon --> -29.9533,-71.3436 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 16.85 & 16.85 & 16.85 Humidity: 67 Clouds: 0 Wind Speed: 8.23
-The outcome data of Stephenville, US: Lat & Lon --> 32.2207,-98.2023 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 20.6 & 22.05 & 19.5 Humidity: 22 Clouds: 1 Wind Speed: 4.12
-The outcome data of Jimma, ET: Lat & Lon --> 7.6667,36.8333 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 16.31 & 16.31 & 16.31 Humidity: 85 Clouds: 66 Wind Speed: 0.2
-The outcome data of Mount Gambier, AU: Lat & Lon --> -37.8333,140.7667 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 9.95 & 9.95 & 9.95 Humidity: 81 Clouds: 40 Wind Speed: 8.75
-The outcome data of Yangi Marg`ilon, UZ: Lat & Lon --> 40.4272,71.7189 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 6.89 & 6.89 & 6.89 Humidity: 52 Clouds: 56 Wind Speed: 1.32
-The outcome data of Yarmouth, US: Lat & Lon --> 41.7057,-70.2286 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 11.68 & 13.43 & 10.54 Humidity: 86 Clouds: 90 Wind Speed: 3.13
-The outcome data of Viedma, AR: Lat & Lon --> -40.8135,-62.9967 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 16.75 & 16.75 & 16.75 Humidity: 81 Clouds: 100 Wind Speed: 4.57
-The outcome data of Ampanihy, MG: Lat & Lon --> -24.7,44.75 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 20.09 & 20.09 & 20.09 Humidity: 97 Clouds: 36 Wind Speed: 0.88
-The outcome data of Hermanus, ZA: Lat & Lon --> -34.4187,19.2345 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 13.78 & 17.17 & 13.78 Humidity: 84 Clouds: 82 Wind Speed: 1.92
-The outcome data of Kagal'nitskaya, RU: Lat & Lon --> 46.8806,40.1466 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 0.25 & 7.58 & 0.25 Humidity: 75 Clouds: 23 Wind Speed: 3
-The outcome data of Mattru, SL: Lat & Lon --> 7.6244,-11.8332 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 24.27 & 24.27 & 24.27 Humidity: 93 Clouds: 83 Wind Speed: 0.89
-The outcome data of Pisco, PE: Lat & Lon --> -13.7,-76.2167 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 20.03 & 20.03 & 20.01 Humidity: 73 Clouds: 0 Wind Speed: 7.72
-The outcome data of Lagoa, PT: Lat & Lon --> 39.05,-27.9833 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 17.15 & 17.15 & 17.15 Humidity: 67 Clouds: 100 Wind Speed: 8.8
-The outcome data of Bouza, NE: Lat & Lon --> 14.4229,6.0428 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 26.97 & 26.97 & 26.97 Humidity: 16 Clouds: 19 Wind Speed: 1.08
-The outcome data of Lavrentiya, RU: Lat & Lon --> 65.5833,-171 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -9.91 & -9.91 & -9.91 Humidity: 95 Clouds: 63 Wind Speed: 2.11
-The outcome data of Cape Town, ZA: Lat & Lon --> -33.9258,18.4232 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 17.86 & 18.38 & 16.86 Humidity: 76 Clouds: 0 Wind Speed: 1.34
-The outcome data of Pevek, RU: Lat & Lon --> 69.7008,170.3133 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -14.23 & -14.23 & -14.23 Humidity: 93 Clouds: 100 Wind Speed: 1.4
-The outcome data of Kruisfontein, ZA: Lat & Lon --> -34.0033,24.7314 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 16.05 & 16.05 & 16.05 Humidity: 87 Clouds: 42 Wind Speed: 5.46
-The outcome data of Dve Mogili, BG: Lat & Lon --> 43.6,25.8667 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 3.01 & 3.01 & 3.01 Humidity: 84 Clouds: 86 Wind Speed: 1.43
-The outcome data of Muzhi, RU: Lat & Lon --> 65.3667,64.6667 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -11.94 & -11.94 & -11.94 Humidity: 82 Clouds: 5 Wind Speed: 3.81
-The outcome data of Yeppoon, AU: Lat & Lon --> -23.1333,150.7333 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 23.88 & 23.88 & 23.88 Humidity: 47 Clouds: 0 Wind Speed: 3.05
-The outcome data of Severo-Kuril'sk, RU: Lat & Lon --> 50.6789,156.125 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 3.66 & 3.66 & 3.66 Humidity: 80 Clouds: 46 Wind Speed: 8.76
-The outcome data of Zhigansk, RU: Lat & Lon --> 66.7697,123.3711 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -32.92 & -32.92 & -32.92 Humidity: 99 Clouds: 51 Wind Speed: 1.14
-The outcome data of Kamenka, RU: Lat & Lon --> 51.3223,42.7678 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 3.19 & 3.19 & 3.19 Humidity: 78 Clouds: 94 Wind Speed: 3.34
-The outcome data of Boende, CD: Lat & Lon --> -0.2167,20.8667 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 20.52 & 20.52 & 20.52 Humidity: 99 Clouds: 100 Wind Speed: 0.92
-The outcome data of Samarai, PG: Lat & Lon --> -10.6167,150.6667 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 28.29 & 28.29 & 28.29 Humidity: 76 Clouds: 97 Wind Speed: 2.08
-The outcome data of Corrales, US: Lat & Lon --> 35.2378,-106.6067 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 20.39 & 22.3 & 17.67 Humidity: 24 Clouds: 1 Wind Speed: 0.45
-The outcome data of Liaocheng, CN: Lat & Lon --> 36.4439,115.9647 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 7.22 & 7.22 & 7.22 Humidity: 58 Clouds: 0 Wind Speed: 0.69
-The outcome data of George Town, MY: Lat & Lon --> 5.4112,100.3354 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 24.23 & 24.97 & 23.97 Humidity: 94 Clouds: 20 Wind Speed: 0
-The outcome data of Markova, UA: Lat & Lon --> 48.6758,24.4138 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 4.51 & 4.51 & 4.51 Humidity: 59 Clouds: 90 Wind Speed: 1.24
-The outcome data of Port Elizabeth, ZA: Lat & Lon --> -33.918,25.5701 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 17.16 & 17.28 & 17.16 Humidity: 82 Clouds: 20 Wind Speed: 4.12
-The outcome data of Butaritari, KI: Lat & Lon --> 3.0707,172.7902 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 27.74 & 27.74 & 27.74 Humidity: 76 Clouds: 40 Wind Speed: 6.64
-The outcome data of Rawson, AR: Lat & Lon --> -43.3002,-65.1023 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 14.16 & 14.16 & 14.16 Humidity: 88 Clouds: 100 Wind Speed: 3.09
-The outcome data of Taoudenni, ML: Lat & Lon --> 22.6783,-3.9836 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 25.82 & 25.82 & 25.82 Humidity: 15 Clouds: 7 Wind Speed: 3.45
-The outcome data of Yulara, AU: Lat & Lon --> -25.2406,130.9889 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 16.91 & 16.91 & 16.91 Humidity: 36 Clouds: 0 Wind Speed: 5.66
-The outcome data of Labuhan, ID: Lat & Lon --> -6.8844,112.2051 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 25.58 & 25.58 & 25.58 Humidity: 88 Clouds: 100 Wind Speed: 2.99
-The outcome data of Hualmay, PE: Lat & Lon --> -11.0964,-77.6139 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 19.22 & 19.22 & 19.22 Humidity: 77 Clouds: 29 Wind Speed: 4.32
-The outcome data of Mar del Plata, AR: Lat & Lon --> -38.0023,-57.5575 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 18.64 & 18.94 & 17.01 Humidity: 87 Clouds: 0 Wind Speed: 3.58
-The outcome data of Nanortalik, GL: Lat & Lon --> 60.1432,-45.2371 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -5.86 & -5.86 & -5.86 Humidity: 69 Clouds: 2 Wind Speed: 12.42
-The outcome data of Cuauhtémoc, MX: Lat & Lon --> 28.4167,-106.8667 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 23.18 & 23.18 & 23.18 Humidity: 19 Clouds: 0 Wind Speed: 2.62
-The outcome data of Nome, US: Lat & Lon --> 64.5011,-165.4064 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -6.97 & -6.96 & -9.94 Humidity: 80 Clouds: 90 Wind Speed: 0
-The outcome data of Okhotsk, RU: Lat & Lon --> 59.3833,143.3 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -0.12 & -0.12 & -0.12 Humidity: 95 Clouds: 100 Wind Speed: 3.69
-The outcome data of Mitsamiouli, KM: Lat & Lon --> -11.3847,43.2844 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 26.57 & 26.57 & 26.57 Humidity: 75 Clouds: 65 Wind Speed: 4.98
-The outcome data of Mosta, MT: Lat & Lon --> 35.9092,14.4256 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 13.99 & 13.99 & 13.99 Humidity: 88 Clouds: 0 Wind Speed: 0.51
-The outcome data of Helena, US: Lat & Lon --> 46.5927,-112.0361 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 10.38 & 11.81 & 7.96 Humidity: 38 Clouds: 1 Wind Speed: 4.92
-The outcome data of Kibala, TD: Lat & Lon --> 9.1104,18.3463 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 24.97 & 24.97 & 24.97 Humidity: 73 Clouds: 0 Wind Speed: 0
-The outcome data of Oddur, SO: Lat & Lon --> 4.1213,43.8894 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 22.18 & 22.18 & 22.18 Humidity: 87 Clouds: 58 Wind Speed: 7.17
-The outcome data of Aklavik, CA: Lat & Lon --> 68.2191,-135.0107 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -10 & -7.6 & -10 Humidity: 92 Clouds: 75 Wind Speed: 4.12
-The outcome data of Arrondissement de Saint-Denis, FR: Lat & Lon --> 48.9167,2.3333 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 10.03 & 10.64 & 9.1 Humidity: 92 Clouds: 90 Wind Speed: 0.45
-The outcome data of Hasaki, JP: Lat & Lon --> 35.7333,140.8333 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 9.22 & 9.22 & 7.16 Humidity: 58 Clouds: 100 Wind Speed: 7.64
-The outcome data of Saskylakh, RU: Lat & Lon --> 71.9167,114.0833 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -27.17 & -27.17 & -27.17 Humidity: 90 Clouds: 8 Wind Speed: 3.31
-The outcome data of Requena, ES: Lat & Lon --> 39.4883,-1.1004 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 9.65 & 10.95 & 8.05 Humidity: 82 Clouds: 96 Wind Speed: 0.86
-The outcome data of Miguel Hidalgo, MX: Lat & Lon --> 19.4225,-99.2028 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 18.38 & 19.54 & 17.96 Humidity: 33 Clouds: 40 Wind Speed: 0.89
-The outcome data of Thompson, CA: Lat & Lon --> 55.7435,-97.8558 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -3.91 & -3.91 & -3.91 Humidity: 86 Clouds: 90 Wind Speed: 1.54
-The outcome data of Kulachi, PK: Lat & Lon --> 31.9286,70.4592 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 17.65 & 17.65 & 17.65 Humidity: 19 Clouds: 0 Wind Speed: 0.77
-The outcome data of Oodweyne, SO: Lat & Lon --> 9.4092,45.064 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 21.11 & 21.11 & 21.11 Humidity: 23 Clouds: 1 Wind Speed: 4.75
-The outcome data of Mayo, US: Lat & Lon --> 38.8876,-76.5119 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 7.83 & 9.6 & 5.84 Humidity: 52 Clouds: 1 Wind Speed: 3.58
-The outcome data of Moree, AU: Lat & Lon --> -29.4667,149.85 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 18.01 & 18.01 & 18.01 Humidity: 39 Clouds: 0 Wind Speed: 3.09
-The outcome data of Norman Wells, CA: Lat & Lon --> 65.282,-126.8329 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -8.98 & -8.98 & -8.98 Humidity: 79 Clouds: 75 Wind Speed: 5.66
-The outcome data of Xining, CN: Lat & Lon --> 36.6167,101.7667 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -3.14 & -3.14 & -3.14 Humidity: 61 Clouds: 30 Wind Speed: 1.26
-The outcome data of Touho, NC: Lat & Lon --> -20.7833,165.2333 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 26.59 & 26.59 & 26.59 Humidity: 74 Clouds: 24 Wind Speed: 3.3
-The outcome data of Baghlan, AF: Lat & Lon --> 36.1307,68.7083 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 6.91 & 6.91 & 6.91 Humidity: 78 Clouds: 0 Wind Speed: 0.98
-The outcome data of Saýat, TM: Lat & Lon --> 38.7839,63.8803 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 4.93 & 4.93 & 4.93 Humidity: 44 Clouds: 98 Wind Speed: 2.09
-The outcome data of Barrow, US: Lat & Lon --> 71.2906,-156.7887 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -8.99 & -8.99 & -8.99 Humidity: 73 Clouds: 90 Wind Speed: 6.17
-The outcome data of Vila Franca do Campo, PT: Lat & Lon --> 37.7167,-25.4333 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 19 & 19 & 17.23 Humidity: 88 Clouds: 98 Wind Speed: 7
-The outcome data of Puerto Limón, CR: Lat & Lon --> 10,-83.0333 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 29.94 & 29.94 & 29.94 Humidity: 62 Clouds: 0 Wind Speed: 3.6
-The outcome data of Inhambane, MZ: Lat & Lon --> -23.865,35.3833 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 23.32 & 23.32 & 23.32 Humidity: 85 Clouds: 34 Wind Speed: 5.45
-The outcome data of Dingli, MT: Lat & Lon --> 35.8614,14.3822 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 13.09 & 13.09 & 13.09 Humidity: 88 Clouds: 0 Wind Speed: 0.51
-The outcome data of Sikasso, ML: Lat & Lon --> 10.9167,-7 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 25.59 & 25.59 & 25.59 Humidity: 24 Clouds: 30 Wind Speed: 0.63
-The outcome data of Eureka, US: Lat & Lon --> 40.8021,-124.1637 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 18.17 & 21.18 & 14.76 Humidity: 78 Clouds: 52 Wind Speed: 1.34
-The outcome data of San Policarpo, PH: Lat & Lon --> 12.1791,125.5072 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 27.53 & 27.53 & 27.53 Humidity: 84 Clouds: 83 Wind Speed: 4.06
-The outcome data of Codrington, AU: Lat & Lon --> -38.2667,141.9667 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 10.17 & 10.17 & 10.17 Humidity: 81 Clouds: 88 Wind Speed: 8.66
-The outcome data of Berlevåg, NO: Lat & Lon --> 70.8578,29.0864 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -0.27 & -0.27 & -0.27 Humidity: 70 Clouds: 100 Wind Speed: 5.76
-The outcome data of Beringovskiy, RU: Lat & Lon --> 63.05,179.3167 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -4.94 & -4.94 & -4.94 Humidity: 94 Clouds: 99 Wind Speed: 1.4
-The outcome data of Cap Malheureux, MU: Lat & Lon --> -19.9842,57.6142 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 24.7 & 24.7 & 24.27 Humidity: 72 Clouds: 32 Wind Speed: 3.13
-The outcome data of Dumas, US: Lat & Lon --> 35.8656,-101.9732 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 19.68 & 22.28 & 19.08 Humidity: 19 Clouds: 1 Wind Speed: 3.09
-The outcome data of Port Lincoln, AU: Lat & Lon --> -34.7333,135.8667 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 12.48 & 12.48 & 12.48 Humidity: 62 Clouds: 60 Wind Speed: 9.85
-The outcome data of Barra do Garças, BR: Lat & Lon --> -15.89,-52.2567 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 23.88 & 23.88 & 23.88 Humidity: 82 Clouds: 100 Wind Speed: 1.63
-The outcome data of Nauta, PE: Lat & Lon --> -4.5061,-73.5757 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 27.43 & 27.43 & 27.43 Humidity: 81 Clouds: 92 Wind Speed: 0.58
-The outcome data of Cherskiy, RU: Lat & Lon --> 68.75,161.3 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -8.51 & -8.51 & -8.51 Humidity: 95 Clouds: 100 Wind Speed: 2.15
-The outcome data of Altay, CN: Lat & Lon --> 47.8667,88.1167 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -0.84 & -0.84 & -0.84 Humidity: 85 Clouds: 99 Wind Speed: 1.67
-The outcome data of Kilindoni, TZ: Lat & Lon --> -7.9139,39.6668 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 26.87 & 26.87 & 26.87 Humidity: 74 Clouds: 97 Wind Speed: 5.48
-The outcome data of Ulaangom, MN: Lat & Lon --> 49.9811,92.0667 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -8.67 & -8.67 & -8.67 Humidity: 81 Clouds: 46 Wind Speed: 1.53
-The outcome data of Tiznit Province, MA: Lat & Lon --> 29.5833,-9.5 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 12.64 & 12.64 & 12.64 Humidity: 83 Clouds: 0 Wind Speed: 0.34
-The outcome data of Bethel, US: Lat & Lon --> 41.3712,-73.414 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 5.78 & 7.51 & 4.27 Humidity: 84 Clouds: 75 Wind Speed: 1.34
-The outcome data of Umm Kaddadah, SD: Lat & Lon --> 13.6017,26.6876 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 25.77 & 25.77 & 25.77 Humidity: 16 Clouds: 1 Wind Speed: 6.7
-The outcome data of Verkhoshizhem'ye, RU: Lat & Lon --> 58.011,49.1038 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -4.58 & -4.58 & -4.58 Humidity: 90 Clouds: 88 Wind Speed: 4.07
-The outcome data of Mangalore, IN: Lat & Lon --> 12.8667,74.8833 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 25.48 & 25.48 & 25.48 Humidity: 88 Clouds: 75 Wind Speed: 1.54
-The outcome data of Naryan-Mar, RU: Lat & Lon --> 67.6713,53.087 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -5.56 & -5.56 & -5.56 Humidity: 94 Clouds: 100 Wind Speed: 3.66
-The outcome data of Narsaq, GL: Lat & Lon --> 60.9167,-46.05 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -7.88 & -7.88 & -7.88 Humidity: 80 Clouds: 1 Wind Speed: 0.9
-The outcome data of Plouzané, FR: Lat & Lon --> 48.3833,-4.6167 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 11.52 & 12.03 & 11.05 Humidity: 82 Clouds: 90 Wind Speed: 1.54
-The outcome data of Nishihara, JP: Lat & Lon --> 26.1842,127.7558 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 19.6 & 19.6 & 18.71 Humidity: 88 Clouds: 75 Wind Speed: 7.72
-The outcome data of Saldanha, ZA: Lat & Lon --> -33.0117,17.9442 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 16.97 & 16.97 & 16.97 Humidity: 85 Clouds: 80 Wind Speed: 7.57
-The outcome data of Bengkulu, ID: Lat & Lon --> -3.8004,102.2655 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 24.35 & 24.35 & 24.35 Humidity: 89 Clouds: 100 Wind Speed: 1.94
-The outcome data of Diego de Almagro, CL: Lat & Lon --> -26.3667,-70.05 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 24.27 & 24.27 & 24.27 Humidity: 22 Clouds: 0 Wind Speed: 4.12
-The outcome data of Christchurch, NZ: Lat & Lon --> -43.5333,172.6333 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 15.57 & 16.68 & 13.6 Humidity: 76 Clouds: 75 Wind Speed: 2.06
-The outcome data of New Norfolk, AU: Lat & Lon --> -42.7826,147.0587 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 9.93 & 11.62 & 8.84 Humidity: 67 Clouds: 100 Wind Speed: 3.13
-The outcome data of Tambo, PE: Lat & Lon --> -14.8,-73.9167 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 6.57 & 6.57 & 6.57 Humidity: 37 Clouds: 91 Wind Speed: 5.73
-The outcome data of Soe, ID: Lat & Lon --> -9.8607,124.284 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 20.71 & 20.71 & 20.71 Humidity: 90 Clouds: 98 Wind Speed: 0.63
-The outcome data of Bereda, ES: Lat & Lon --> 43.2686,-7.5406 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 7.52 & 10.51 & 5.86 Humidity: 99 Clouds: 60 Wind Speed: 1.48
-The outcome data of Sambava, MG: Lat & Lon --> -14.2667,50.1667 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 24.01 & 24.01 & 24.01 Humidity: 85 Clouds: 65 Wind Speed: 1.96
-The outcome data of Kholtoson, RU: Lat & Lon --> 50.2981,103.3097 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -5.4 & -5.4 & -5.4 Humidity: 69 Clouds: 84 Wind Speed: 0.96
-The outcome data of São Filipe, CV: Lat & Lon --> 14.8961,-24.4956 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 23.84 & 23.84 & 23.84 Humidity: 76 Clouds: 47 Wind Speed: 5.09
-The outcome data of Khovd, MN: Lat & Lon --> 48.0056,91.6419 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -2.51 & -2.51 & -2.51 Humidity: 52 Clouds: 50 Wind Speed: 3.42
-The outcome data of Puerto Ayacucho, VE: Lat & Lon --> 5.6639,-67.6236 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 26.98 & 26.98 & 26.98 Humidity: 81 Clouds: 86 Wind Speed: 1.46
-The outcome data of Khatanga, RU: Lat & Lon --> 71.9667,102.5 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -22.2 & -22.2 & -22.2 Humidity: 88 Clouds: 100 Wind Speed: 3.52
-The outcome data of Hikari, JP: Lat & Lon --> 33.955,131.95 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 9.13 & 15.01 & 8.99 Humidity: 80 Clouds: 97 Wind Speed: 2.13
-The outcome data of Ponta do Sol, PT: Lat & Lon --> 32.6667,-17.1 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 18.85 & 20.35 & 18.4 Humidity: 72 Clouds: 54 Wind Speed: 1.46
-The outcome data of Charters Towers, AU: Lat & Lon --> -20.1,146.2667 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 23.3 & 23.3 & 23.3 Humidity: 24 Clouds: 76 Wind Speed: 5.72
-The outcome data of Cumaru, BR: Lat & Lon --> -8.0061,-35.6972 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 23.56 & 23.56 & 23.56 Humidity: 75 Clouds: 7 Wind Speed: 6.08
-The outcome data of Rio Grande, BR: Lat & Lon --> -32.035,-52.0986 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 19.17 & 19.17 & 19.17 Humidity: 70 Clouds: 31 Wind Speed: 9.98
-The outcome data of Starkville, US: Lat & Lon --> 33.4504,-88.8184 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 9.91 & 10.81 & 8.2 Humidity: 50 Clouds: 1 Wind Speed: 0
-The outcome data of Doha, QA: Lat & Lon --> 25.2867,51.5333 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 23.97 & 23.99 & 22.17 Humidity: 55 Clouds: 0 Wind Speed: 4.63
-The outcome data of Edgewater, US: Lat & Lon --> 28.9889,-80.9023 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 20.29 & 22.38 & 18.94 Humidity: 88 Clouds: 75 Wind Speed: 2.57
-The outcome data of Iqaluit, CA: Lat & Lon --> 63.7506,-68.5145 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -20.17 & -20.15 & -20.17 Humidity: 76 Clouds: 20 Wind Speed: 10.28
-The outcome data of Nouadhibou, MR: Lat & Lon --> 20.931,-17.0347 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 20.99 & 20.99 & 20.99 Humidity: 73 Clouds: 0 Wind Speed: 3.6
-The outcome data of Dunedin, NZ: Lat & Lon --> -45.8742,170.5036 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 12.67 & 12.67 & 12.67 Humidity: 66 Clouds: 100 Wind Speed: 1.34
-The outcome data of Yar-Sale, RU: Lat & Lon --> 66.8333,70.8333 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -15.49 & -15.49 & -15.49 Humidity: 86 Clouds: 34 Wind Speed: 2.59
-The outcome data of St. George's, GD: Lat & Lon --> 12.0564,-61.7485 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 26.82 & 26.82 & 26.82 Humidity: 78 Clouds: 20 Wind Speed: 4.63
-The outcome data of San Patricio, US: Lat & Lon --> 28.017,-97.5169 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 21.34 & 24.23 & 18.91 Humidity: 24 Clouds: 0 Wind Speed: 2.95
-The outcome data of Talnakh, RU: Lat & Lon --> 69.4865,88.3972 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -12.59 & -12.59 & -12.59 Humidity: 91 Clouds: 100 Wind Speed: 5.62
-The outcome data of Whyalla, AU: Lat & Lon --> -33.0333,137.5833 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 12.94 & 12.94 & 12.94 Humidity: 76 Clouds: 40 Wind Speed: 6.69
-The outcome data of Alice Springs, AU: Lat & Lon --> -23.7,133.8833 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 17.75 & 17.75 & 17.75 Humidity: 55 Clouds: 3 Wind Speed: 0
-The outcome data of Puertollano, ES: Lat & Lon --> 38.6871,-4.1073 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 9.58 & 10.09 & 8.31 Humidity: 63 Clouds: 41 Wind Speed: 1.15
-The outcome data of Skjervøy, NO: Lat & Lon --> 70.0311,20.9714 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 4.88 & 4.88 & 4.88 Humidity: 69 Clouds: 27 Wind Speed: 8.38
-The outcome data of Salta, AR: Lat & Lon --> -24.7859,-65.4117 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 27.45 & 27.54 & 27.16 Humidity: 50 Clouds: 75 Wind Speed: 2.24
-The outcome data of Husavik, IS: Lat & Lon --> 66.0449,-17.3389 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 7.95 & 7.95 & 7.95 Humidity: 91 Clouds: 100 Wind Speed: 14.54
-The outcome data of Mandalgovi, MN: Lat & Lon --> 45.7625,106.2708 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -3.68 & -3.68 & -3.68 Humidity: 41 Clouds: 7 Wind Speed: 2.36
-The outcome data of Klaksvík, FO: Lat & Lon --> 62.2266,-6.589 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 8.51 & 8.51 & 8.51 Humidity: 97 Clouds: 100 Wind Speed: 13.67
-The outcome data of Shimoda, JP: Lat & Lon --> 34.6667,138.95 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 12.28 & 12.28 & 12.28 Humidity: 66 Clouds: 95 Wind Speed: 3.22
-The outcome data of Arroyo de la Encomienda, ES: Lat & Lon --> 41.6096,-4.7969 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 6.9 & 9.55 & 3.02 Humidity: 80 Clouds: 0 Wind Speed: 1.54
-The outcome data of Bonavista, CA: Lat & Lon --> 48.6499,-53.1147 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 8 & 8.4 & 8 Humidity: 89 Clouds: 100 Wind Speed: 11.7
-The outcome data of Colac, AU: Lat & Lon --> -38.3333,143.5833 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 6.6 & 11.2 & 6.57 Humidity: 94 Clouds: 78 Wind Speed: 6.95
-The outcome data of Anadyr, RU: Lat & Lon --> 64.75,177.4833 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -4.44 & -3.72 & -4.44 Humidity: 85 Clouds: 90 Wind Speed: 2.68
-The outcome data of Goundam, ML: Lat & Lon --> 16.4145,-3.6708 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 27.7 & 27.7 & 27.7 Humidity: 15 Clouds: 99 Wind Speed: 4.22
-The outcome data of Tashla, RU: Lat & Lon --> 51.7716,52.7427 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -2.59 & -2.59 & -2.59 Humidity: 87 Clouds: 64 Wind Speed: 5.72
-The outcome data of Pacific Grove, US: Lat & Lon --> 36.6177,-121.9166 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 22.41 & 27.56 & 20.24 Humidity: 58 Clouds: 1 Wind Speed: 0.89
-The outcome data of Zaysan, KZ: Lat & Lon --> 47.4667,84.8667 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -2.67 & -2.67 & -2.67 Humidity: 85 Clouds: 97 Wind Speed: 1.56
-The outcome data of Awjilah, LY: Lat & Lon --> 29.1081,21.2869 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 19.61 & 19.61 & 19.61 Humidity: 53 Clouds: 98 Wind Speed: 3.02
-The outcome data of San Miguel de Cozumel, MX: Lat & Lon --> 20.5083,-86.9458 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 24.51 & 25.99 & 23.86 Humidity: 86 Clouds: 75 Wind Speed: 2.68
-The outcome data of Bontang, ID: Lat & Lon --> 0.1333,117.5 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 24.28 & 24.28 & 24.28 Humidity: 91 Clouds: 100 Wind Speed: 1.01
-The outcome data of Necochea, AR: Lat & Lon --> -38.5473,-58.7368 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 21.03 & 21.03 & 17.8 Humidity: 46 Clouds: 81 Wind Speed: 7.23
-The outcome data of Seoul, KR: Lat & Lon --> 37.5683,126.9778 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 7.4 & 7.78 & 4.42 Humidity: 81 Clouds: 40 Wind Speed: 2.06
-The outcome data of Lorengau, PG: Lat & Lon --> -2.0226,147.2712 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 28.33 & 28.33 & 28.33 Humidity: 76 Clouds: 95 Wind Speed: 2.46
-The outcome data of Naze, JP: Lat & Lon --> 28.3667,129.4833 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 14.51 & 14.51 & 14.51 Humidity: 84 Clouds: 98 Wind Speed: 6.26
-The outcome data of Careiro da Várzea, BR: Lat & Lon --> -3.2003,-59.8119 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 28.34 & 28.34 & 27.35 Humidity: 89 Clouds: 94 Wind Speed: 1.47
-The outcome data of Hudson Bay, CA: Lat & Lon --> 52.85,-102.3842 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -3.53 & -3.53 & -3.53 Humidity: 87 Clouds: 100 Wind Speed: 0.48
-The outcome data of Tianpeng, CN: Lat & Lon --> 30.9866,103.9393 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 9.26 & 9.26 & 9.26 Humidity: 73 Clouds: 42 Wind Speed: 1.03
-The outcome data of Olafsvik, IS: Lat & Lon --> 64.8945,-23.7142 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 8.62 & 8.62 & 8.62 Humidity: 92 Clouds: 100 Wind Speed: 14.16
-The outcome data of Tiksi, RU: Lat & Lon --> 71.6872,128.8694 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -18.52 & -18.52 & -18.52 Humidity: 97 Clouds: 100 Wind Speed: 2.43
-The outcome data of Kimbe, PG: Lat & Lon --> -5.5502,150.1429 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 28.11 & 28.11 & 28.11 Humidity: 77 Clouds: 67 Wind Speed: 0.8
-The outcome data of Ayagoz, KZ: Lat & Lon --> 47.9714,80.4392 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -1.94 & -1.94 & -1.94 Humidity: 89 Clouds: 100 Wind Speed: 3.39
-The outcome data of Kawalu, ID: Lat & Lon --> -7.3817,108.2082 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 22.35 & 22.35 & 22.35 Humidity: 98 Clouds: 100 Wind Speed: 0.52
-The outcome data of Mapiri, BO: Lat & Lon --> -15.25,-68.1667 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 25.19 & 25.19 & 25.19 Humidity: 75 Clouds: 100 Wind Speed: 1.51
-The outcome data of Ballina, AU: Lat & Lon --> -28.8667,153.5667 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 20.6 & 21.55 & 19.41 Humidity: 45 Clouds: 0 Wind Speed: 3.6
-The outcome data of Coyhaique, CL: Lat & Lon --> -45.5752,-72.0662 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 12.97 & 12.97 & 12.97 Humidity: 47 Clouds: 75 Wind Speed: 4.63
-The outcome data of Praia, CV: Lat & Lon --> 14.9215,-23.5087 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 24.3 & 24.3 & 24.3 Humidity: 73 Clouds: 40 Wind Speed: 5.14
-The outcome data of Barra de Tecoanapa, MX: Lat & Lon --> 16.5167,-98.75 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 28.53 & 28.53 & 28.53 Humidity: 64 Clouds: 0 Wind Speed: 3.09
-The outcome data of Kisangani, CD: Lat & Lon --> 0.5167,25.2 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 20.91 & 20.91 & 20.91 Humidity: 99 Clouds: 99 Wind Speed: 1.13
-The outcome data of Olean, US: Lat & Lon --> 42.0776,-78.4297 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 3.07 & 4.49 & 0.56 Humidity: 92 Clouds: 96 Wind Speed: 4.92
-The outcome data of Privolnaya, RU: Lat & Lon --> 46.1371,38.6951 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 4.81 & 4.81 & 4.81 Humidity: 75 Clouds: 23 Wind Speed: 3.4
-The outcome data of Cidreira, BR: Lat & Lon --> -30.1811,-50.2056 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 19.41 & 19.41 & 19.41 Humidity: 71 Clouds: 0 Wind Speed: 10.98
-The outcome data of Chake Chake, TZ: Lat & Lon --> -5.2459,39.7666 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 24.81 & 24.81 & 24.81 Humidity: 83 Clouds: 31 Wind Speed: 2.85
-The outcome data of Tura, IN: Lat & Lon --> 25.5198,90.2201 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 15.25 & 15.25 & 15.25 Humidity: 84 Clouds: 21 Wind Speed: 1.22
-The outcome data of Madang, PG: Lat & Lon --> -5.2246,145.7966 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 25.69 & 25.69 & 25.69 Humidity: 87 Clouds: 100 Wind Speed: 1.41
-The outcome data of Mayumba, GA: Lat & Lon --> -3.432,10.6554 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 25.27 & 25.27 & 25.27 Humidity: 90 Clouds: 100 Wind Speed: 1.44
-The outcome data of Richards Bay, ZA: Lat & Lon --> -28.783,32.0377 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 21.49 & 21.49 & 21.49 Humidity: 85 Clouds: 80 Wind Speed: 2.55
-The outcome data of Kibaya, TZ: Lat & Lon --> -5.3,36.5667 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 16.17 & 16.17 & 16.17 Humidity: 65 Clouds: 70 Wind Speed: 2.13
-The outcome data of Djibouti, DJ: Lat & Lon --> 11.5,42.5 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 25.68 & 25.68 & 25.68 Humidity: 68 Clouds: 36 Wind Speed: 8.83
-The outcome data of Marihatag, PH: Lat & Lon --> 8.7936,126.2969 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 25.5 & 25.5 & 25.5 Humidity: 86 Clouds: 99 Wind Speed: 1.41
-The outcome data of Port Antonio, JM: Lat & Lon --> 18.18,-76.4612 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 27.93 & 30.95 & 27.17 Humidity: 76 Clouds: 98 Wind Speed: 1.3
-The outcome data of Katsuura, JP: Lat & Lon --> 35.1333,140.3 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 11.97 & 12.01 & 10.06 Humidity: 68 Clouds: 92 Wind Speed: 5.22
-The outcome data of Blackwater, AU: Lat & Lon --> -23.5833,148.8833 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 22.33 & 22.33 & 22.33 Humidity: 33 Clouds: 0 Wind Speed: 1.43
-The outcome data of Gavrilov Posad, RU: Lat & Lon --> 56.5597,40.1175 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -1.83 & -1.83 & -1.83 Humidity: 94 Clouds: 77 Wind Speed: 2.56
-The outcome data of Suba, PH: Lat & Lon --> 10.8438,121.0102 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 28.46 & 28.46 & 28.46 Humidity: 75 Clouds: 96 Wind Speed: 2.52
-The outcome data of Clyde River, CA: Lat & Lon --> 70.4692,-68.5914 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -19.87 & -19.87 & -19.87 Humidity: 77 Clouds: 20 Wind Speed: 7.2
-The outcome data of Cabo San Lucas, MX: Lat & Lon --> 22.8909,-109.9124 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 29.16 & 30.9 & 27.3 Humidity: 66 Clouds: 20 Wind Speed: 1.34
-The outcome data of Boca do Acre, BR: Lat & Lon --> -8.7522,-67.3978 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 27.11 & 27.11 & 27.11 Humidity: 73 Clouds: 85 Wind Speed: 0.78
-The outcome data of Soubre, CI: Lat & Lon --> 5.7856,-6.6083 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 22.93 & 22.93 & 22.93 Humidity: 97 Clouds: 98 Wind Speed: 0.85
-The outcome data of Vardø, NO: Lat & Lon --> 70.3705,31.1107 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 0.69 & 0.69 & 0.69 Humidity: 74 Clouds: 100 Wind Speed: 12.25
-The outcome data of Almeirim, BR: Lat & Lon --> -1.5233,-52.5817 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 28.51 & 28.51 & 28.51 Humidity: 62 Clouds: 78 Wind Speed: 1.97
-The outcome data of Mahendranagar, NP: Lat & Lon --> 28.9167,80.3333 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 16.28 & 16.28 & 16.28 Humidity: 80 Clouds: 0 Wind Speed: 1.8
-The outcome data of Chernyshevskiy, RU: Lat & Lon --> 63.0128,112.4714 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -28.21 & -28.21 & -28.21 Humidity: 100 Clouds: 65 Wind Speed: 0.76
-The outcome data of Mizdah, LY: Lat & Lon --> 31.4451,12.9801 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 16.37 & 16.37 & 16.37 Humidity: 80 Clouds: 77 Wind Speed: 7.77
-The outcome data of Ahmadpur Sial, PK: Lat & Lon --> 30.6754,71.7483 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 15.93 & 15.93 & 15.93 Humidity: 18 Clouds: 0 Wind Speed: 2.19
-The outcome data of São Joaquim, BR: Lat & Lon --> -28.2939,-49.9317 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 11.14 & 11.14 & 11.14 Humidity: 91 Clouds: 30 Wind Speed: 1.51
-The outcome data of Makakilo City, US: Lat & Lon --> 21.3469,-158.0858 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 27.76 & 28.18 & 26.98 Humidity: 54 Clouds: 1 Wind Speed: 4.63
-The outcome data of Mogadishu, SO: Lat & Lon --> 2.0371,45.3438 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 26.7 & 26.7 & 26.7 Humidity: 77 Clouds: 56 Wind Speed: 6.2
-The outcome data of Mossamedes, AO: Lat & Lon --> -15.1961,12.1522 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 22.31 & 22.31 & 22.31 Humidity: 75 Clouds: 67 Wind Speed: 2.98
-The outcome data of Haines Junction, CA: Lat & Lon --> 60.7522,-137.5108 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 0.97 & 0.97 & 0.97 Humidity: 47 Clouds: 87 Wind Speed: 2.06
-The outcome data of Mehamn, NO: Lat & Lon --> 71.0357,27.8492 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -1.5 & -1.5 & -1.5 Humidity: 70 Clouds: 99 Wind Speed: 3.37
-The outcome data of Shaunavon, CA: Lat & Lon --> 49.6501,-108.4181 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 6.88 & 6.88 & 6.88 Humidity: 48 Clouds: 76 Wind Speed: 8.64
-The outcome data of Fortuna, US: Lat & Lon --> 40.5982,-124.1573 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 18.97 & 21.77 & 14.62 Humidity: 70 Clouds: 1 Wind Speed: 0.89
-The outcome data of Soavinandriana, MG: Lat & Lon --> -19.1667,46.7333 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 17.12 & 17.12 & 17.12 Humidity: 77 Clouds: 100 Wind Speed: 1.04
-The outcome data of Ximeicun, CN: Lat & Lon --> 24.9639,118.3794 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 12.85 & 17.19 & 12.85 Humidity: 89 Clouds: 11 Wind Speed: 1.9
-The outcome data of Kahului, US: Lat & Lon --> 20.8947,-156.47 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 28.28 & 31.59 & 27.6 Humidity: 63 Clouds: 40 Wind Speed: 4.63
-The outcome data of Tuatapere, NZ: Lat & Lon --> -46.1333,167.6833 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 10.14 & 10.14 & 10.14 Humidity: 91 Clouds: 100 Wind Speed: 1.28
-The outcome data of São João da Barra, BR: Lat & Lon --> -21.6403,-41.0511 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 20.05 & 20.05 & 20.05 Humidity: 67 Clouds: 93 Wind Speed: 5.08
-The outcome data of Bestöbe, KZ: Lat & Lon --> 52.4994,73.0975 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -0.58 & -0.58 & -0.58 Humidity: 78 Clouds: 100 Wind Speed: 9.6
-The outcome data of Caibarién, CU: Lat & Lon --> 22.5206,-79.4669 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 28.62 & 28.62 & 28.62 Humidity: 78 Clouds: 100 Wind Speed: 2.69
-The outcome data of Carnarvon, AU: Lat & Lon --> -24.8667,113.6333 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 20.04 & 20.04 & 20.04 Humidity: 83 Clouds: 0 Wind Speed: 5.14
-The outcome data of Liwale, TZ: Lat & Lon --> -9.7667,37.9333 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 20.78 & 20.78 & 20.78 Humidity: 93 Clouds: 97 Wind Speed: 2.1
-The outcome data of Puerto Lempira, HN: Lat & Lon --> 15.2667,-83.7667 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 28.08 & 28.08 & 28.08 Humidity: 78 Clouds: 40 Wind Speed: 4.12
-The outcome data of Bud, US: Lat & Lon --> 39.447,-86.1758 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 2.16 & 3.28 & 1.29 Humidity: 77 Clouds: 100 Wind Speed: 5.2
-The outcome data of Batticaloa, LK: Lat & Lon --> 7.7102,81.6924 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 26.47 & 26.47 & 26.47 Humidity: 78 Clouds: 99 Wind Speed: 1.77
-The outcome data of Te Anau, NZ: Lat & Lon --> -45.4167,167.7167 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 8.31 & 8.31 & 8.31 Humidity: 98 Clouds: 100 Wind Speed: 0.55
-The outcome data of Kaitangata, NZ: Lat & Lon --> -46.2817,169.8464 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 9.74 & 9.74 & 9.74 Humidity: 96 Clouds: 100 Wind Speed: 2.16
-The outcome data of Altamira, BR: Lat & Lon --> -3.2033,-52.2064 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 27.37 & 27.37 & 27.37 Humidity: 69 Clouds: 98 Wind Speed: 1.19
-The outcome data of Grindavik, IS: Lat & Lon --> 63.8424,-22.4338 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 10.26 & 10.26 & 9.97 Humidity: 93 Clouds: 90 Wind Speed: 15.43
-The outcome data of Katubao, PH: Lat & Lon --> 5.8892,124.8294 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 26.61 & 26.61 & 26.61 Humidity: 82 Clouds: 98 Wind Speed: 1.54
-The outcome data of Nambucca Heads, AU: Lat & Lon --> -30.65,153 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 20 & 21.67 & 20 Humidity: 41 Clouds: 0 Wind Speed: 3.67
-The outcome data of Treinta y Tres, UY: Lat & Lon --> -33.2333,-54.3833 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 18.39 & 18.39 & 18.39 Humidity: 72 Clouds: 0 Wind Speed: 8.39
-The outcome data of Praia da Vitória, PT: Lat & Lon --> 38.7333,-27.0667 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 15.14 & 15.14 & 14.86 Humidity: 100 Clouds: 75 Wind Speed: 8.11
-The outcome data of Butembo, CD: Lat & Lon --> 0.15,29.2833 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 14.93 & 14.93 & 14.93 Humidity: 95 Clouds: 98 Wind Speed: 1.32
-The outcome data of Churapcha, RU: Lat & Lon --> 62.0025,132.4325 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -25.25 & -25.25 & -25.25 Humidity: 98 Clouds: 98 Wind Speed: 2.51
-The outcome data of Souillac, MU: Lat & Lon --> -20.5167,57.5167 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 24.21 & 24.64 & 24.21 Humidity: 83 Clouds: 40 Wind Speed: 5.14
-The outcome data of Forsytheganj, BY: Lat & Lon --> 52.6333,29.7333 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 0.65 & 0.65 & 0.65 Humidity: 91 Clouds: 78 Wind Speed: 2.89
-The outcome data of Ilulissat, GL: Lat & Lon --> 69.2167,-51.1 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -25.5 & -25.5 & -25.5 Humidity: 71 Clouds: 3 Wind Speed: 3.08
-The outcome data of Weligama, LK: Lat & Lon --> 5.9667,80.4167 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 25.04 & 25.04 & 25.04 Humidity: 89 Clouds: 87 Wind Speed: 4.23
-The outcome data of Port Hardy, CA: Lat & Lon --> 50.6996,-127.4199 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 7.1 & 7.1 & 7 Humidity: 93 Clouds: 90 Wind Speed: 7.2
-The outcome data of Nara, JP: Lat & Lon --> 34.6851,135.8049 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 9.44 & 12.6 & 8.28 Humidity: 71 Clouds: 90 Wind Speed: 1.46
-The outcome data of Tautira, PF: Lat & Lon --> -17.7333,-149.15 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 29.01 & 29.01 & 29.01 Humidity: 64 Clouds: 68 Wind Speed: 4.84
-The outcome data of Wenatchee, US: Lat & Lon --> 47.4235,-120.3103 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 8.23 & 11.37 & 6.9 Humidity: 77 Clouds: 90 Wind Speed: 0
-The outcome data of Tchibanga, GA: Lat & Lon --> -2.85,11.0333 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 22.1 & 22.1 & 22.1 Humidity: 98 Clouds: 100 Wind Speed: 1.28
-The outcome data of La Ronge, CA: Lat & Lon --> 55.1001,-105.2842 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -3.86 & -3.86 & -3.88 Humidity: 80 Clouds: 90 Wind Speed: 2.06
-The outcome data of Hambantota, LK: Lat & Lon --> 6.1241,81.1185 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 25.76 & 25.76 & 25.76 Humidity: 82 Clouds: 100 Wind Speed: 6.26
-The outcome data of Kyabé, TD: Lat & Lon --> 9.4515,18.9449 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 28.57 & 28.57 & 28.57 Humidity: 34 Clouds: 7 Wind Speed: 1.26
-The outcome data of Port Moresby, PG: Lat & Lon --> -9.4431,147.1797 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 27.68 & 27.68 & 27.68 Humidity: 89 Clouds: 40 Wind Speed: 2.06
-The outcome data of Smithers, CA: Lat & Lon --> 54.7804,-127.1743 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 2.18 & 2.18 & 2.18 Humidity: 87 Clouds: 75 Wind Speed: 1.03
-The outcome data of Geraldton, AU: Lat & Lon --> -28.7667,114.6 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 16.23 & 16.23 & 16.23 Humidity: 94 Clouds: 90 Wind Speed: 2.57
-The outcome data of Emerald, AU: Lat & Lon --> -23.5333,148.1667 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 23.52 & 24.43 & 20.19 Humidity: 28 Clouds: 0 Wind Speed: 1.54
-The outcome data of Kommunar, RU: Lat & Lon --> 59.6206,30.39 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 2 & 3.06 & 0.79 Humidity: 94 Clouds: 100 Wind Speed: 1.81
-The outcome data of Hannibal, US: Lat & Lon --> 39.7084,-91.3585 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 4.36 & 5.51 & 2.45 Humidity: 56 Clouds: 1 Wind Speed: 1.54
-The outcome data of Eydhafushi, MV: Lat & Lon --> 5.1033,73.0708 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 27.8 & 27.8 & 27.8 Humidity: 78 Clouds: 90 Wind Speed: 10.55
-The outcome data of Midland, US: Lat & Lon --> 31.9974,-102.0779 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 24.1 & 25.03 & 22.22 Humidity: 19 Clouds: 1 Wind Speed: 5.14
-The outcome data of Lompoc, US: Lat & Lon --> 34.6391,-120.4579 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 28.83 & 33.21 & 25.33 Humidity: 30 Clouds: 1 Wind Speed: 5.66
-The outcome data of Malabo, GQ: Lat & Lon --> 3.75,8.7833 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 26.79 & 26.79 & 26.79 Humidity: 85 Clouds: 12 Wind Speed: 4.07
-The outcome data of Sumbe, AO: Lat & Lon --> -11.2061,13.8437 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 24.76 & 24.76 & 24.76 Humidity: 87 Clouds: 100 Wind Speed: 1.95
-The outcome data of Miraflores, MX: Lat & Lon --> 19.2167,-98.8083 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 18.22 & 19.23 & 17.79 Humidity: 31 Clouds: 10 Wind Speed: 0.55
-The outcome data of Muros, ES: Lat & Lon --> 42.7762,-9.0603 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 10.15 & 15.47 & 9.91 Humidity: 93 Clouds: 14 Wind Speed: 3.29
-The outcome data of Vigia, BR: Lat & Lon --> -0.8583,-48.1417 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 28.03 & 28.03 & 28.03 Humidity: 85 Clouds: 29 Wind Speed: 4.4
-The outcome data of Dauphin, CA: Lat & Lon --> 51.1494,-100.0502 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -3.92 & -3.92 & -3.92 Humidity: 100 Clouds: 90 Wind Speed: 1.54
-The outcome data of Egvekinot, RU: Lat & Lon --> 66.3167,-179.1667 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -15.53 & -15.53 & -15.53 Humidity: 91 Clouds: 88 Wind Speed: 1.6
-The outcome data of Dolisie, CG: Lat & Lon --> -4.1997,12.6739 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 22.76 & 22.76 & 22.76 Humidity: 96 Clouds: 100 Wind Speed: 0.81
-The outcome data of Burriana, ES: Lat & Lon --> 39.889,-0.085 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 14.57 & 15.84 & 12.47 Humidity: 78 Clouds: 100 Wind Speed: 2.26
-The outcome data of Zyryanka, RU: Lat & Lon --> 65.75,150.85 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -16.2 & -16.2 & -16.2 Humidity: 96 Clouds: 100 Wind Speed: 4.55
-The outcome data of Laas, IT: Lat & Lon --> 46.6166,10.7002 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 6.27 & 7.49 & 3.95 Humidity: 99 Clouds: 100 Wind Speed: 0.98
-The outcome data of George, ZA: Lat & Lon --> -33.963,22.4617 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 15.85 & 15.85 & 15.85 Humidity: 85 Clouds: 34 Wind Speed: 2.52
-The outcome data of Vostok, RU: Lat & Lon --> 46.4856,135.8833 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -3.31 & -3.31 & -3.31 Humidity: 97 Clouds: 100 Wind Speed: 1.39
-The outcome data of Cockburn Town, TC: Lat & Lon --> 21.4612,-71.1419 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 26.98 & 26.98 & 26.98 Humidity: 74 Clouds: 40 Wind Speed: 2.57
-The outcome data of Ponta Delgada, PT: Lat & Lon --> 37.7333,-25.6667 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 17.4 & 19.17 & 17.4 Humidity: 94 Clouds: 75 Wind Speed: 2.06
-The outcome data of Hirara, JP: Lat & Lon --> 24.8,125.2833 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 21.15 & 21.15 & 20.92 Humidity: 88 Clouds: 75 Wind Speed: 5.66
-The outcome data of Padang, ID: Lat & Lon --> -0.9492,100.3543 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 24.03 & 24.03 & 24.03 Humidity: 82 Clouds: 100 Wind Speed: 1.53
-The outcome data of Ayr, GB: Lat & Lon --> 55.4627,-4.6339 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 7.03 & 8.94 & 4 Humidity: 93 Clouds: 40 Wind Speed: 3.6
-The outcome data of Skellefteå, SE: Lat & Lon --> 64.7507,20.9528 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -3.33 & -2.8 & -3.33 Humidity: 65 Clouds: 77 Wind Speed: 0.45
-The outcome data of Shitanjing, CN: Lat & Lon --> 39.2342,106.3439 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 0.78 & 0.78 & 0.78 Humidity: 28 Clouds: 0 Wind Speed: 2.93
-The outcome data of Olinda, BR: Lat & Lon --> -8.0089,-34.8553 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 27.85 & 27.85 & 27.85 Humidity: 69 Clouds: 40 Wind Speed: 4.63
-The outcome data of Basti, IN: Lat & Lon --> 26.8,82.7167 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 18.29 & 18.29 & 18.29 Humidity: 65 Clouds: 0 Wind Speed: 1.61
-The outcome data of Rafai, CF: Lat & Lon --> 4.95,23.9167 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 21.19 & 21.19 & 21.19 Humidity: 93 Clouds: 37 Wind Speed: 1.29
-The outcome data of Shangrao, CN: Lat & Lon --> 28.4532,117.9686 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 9.14 & 9.14 & 9.14 Humidity: 77 Clouds: 25 Wind Speed: 0.59
-The outcome data of Taksimo, RU: Lat & Lon --> 56.3444,114.8794 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -12.92 & -12.92 & -12.92 Humidity: 88 Clouds: 62 Wind Speed: 1.48
-The outcome data of Okha, RU: Lat & Lon --> 53.5739,142.9478 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -2.69 & -2.69 & -2.69 Humidity: 77 Clouds: 72 Wind Speed: 6.43
-The outcome data of Dubbo, AU: Lat & Lon --> -32.25,148.6167 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 14.07 & 14.07 & 14.07 Humidity: 67 Clouds: 1 Wind Speed: 4.63
-The outcome data of Alcañiz, ES: Lat & Lon --> 41.05,-0.1333 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 12.66 & 14.68 & 12.27 Humidity: 69 Clouds: 98 Wind Speed: 6.17
-The outcome data of Aquiraz, BR: Lat & Lon --> -3.9014,-38.3911 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 29.18 & 29.56 & 27.88 Humidity: 67 Clouds: 92 Wind Speed: 5.69
-The outcome data of Pacifica, US: Lat & Lon --> 37.6138,-122.4869 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 21.14 & 25.37 & 17.54 Humidity: 74 Clouds: 1 Wind Speed: 2.06
-The outcome data of Marzuq, YE: Lat & Lon --> 14.4,46.4667 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 17.85 & 17.85 & 17.85 Humidity: 23 Clouds: 4 Wind Speed: 0.22
-The outcome data of Abu Samrah, SY: Lat & Lon --> 35.3029,37.1841 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 14.56 & 14.56 & 14.56 Humidity: 32 Clouds: 100 Wind Speed: 3.05
-The outcome data of Lukhovka, RU: Lat & Lon --> 54.1484,45.2573 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 0.7 & 0.7 & 0.7 Humidity: 94 Clouds: 100 Wind Speed: 4.98
-The outcome data of Baykit, RU: Lat & Lon --> 61.67,96.37 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -16.03 & -16.03 & -16.03 Humidity: 100 Clouds: 99 Wind Speed: 0.54
-The outcome data of Zharkent, KZ: Lat & Lon --> 44.1628,80 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 3.76 & 3.76 & 3.76 Humidity: 49 Clouds: 34 Wind Speed: 2.08
-The outcome data of Micheweni, TZ: Lat & Lon --> -4.9667,39.8333 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 26 & 26 & 26 Humidity: 78 Clouds: 21 Wind Speed: 3.22
-The outcome data of Meulaboh, ID: Lat & Lon --> 4.1363,96.1285 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 24.64 & 24.64 & 24.64 Humidity: 87 Clouds: 100 Wind Speed: 1.7
-The outcome data of Itaueira, BR: Lat & Lon --> -7.6033,-43.0256 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 28.31 & 28.31 & 28.31 Humidity: 55 Clouds: 80 Wind Speed: 1.16
-The outcome data of Saint-Joseph, RE: Lat & Lon --> -21.3667,55.6167 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 22.19 & 24.2 & 21.37 Humidity: 81 Clouds: 95 Wind Speed: 2.85
-The outcome data of Ginir, ET: Lat & Lon --> 7.1333,40.7 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 15.67 & 15.67 & 15.67 Humidity: 71 Clouds: 64 Wind Speed: 0.88
-The outcome data of Quang Ngai, VN: Lat & Lon --> 15.1167,108.8 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 21.94 & 21.94 & 21.94 Humidity: 97 Clouds: 100 Wind Speed: 3.5
-The outcome data of Morant Bay, JM: Lat & Lon --> 17.8815,-76.4093 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 29.13 & 30.79 & 27.01 Humidity: 77 Clouds: 95 Wind Speed: 4.03
-The outcome data of Ostrovnoy, RU: Lat & Lon --> 68.0531,39.5131 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -5.67 & -5.67 & -5.67 Humidity: 89 Clouds: 94 Wind Speed: 10.72
-The outcome data of Santa Maria, BR: Lat & Lon --> -29.6842,-53.8069 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 26.61 & 26.61 & 26.61 Humidity: 50 Clouds: 20 Wind Speed: 6.17
-The outcome data of Namatanai, PG: Lat & Lon --> -3.6667,152.4333 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 27.55 & 27.55 & 27.55 Humidity: 80 Clouds: 90 Wind Speed: 2.44
-The outcome data of Abalak, RU: Lat & Lon --> 58.1286,68.5944 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -4.75 & -4.75 & -4.75 Humidity: 97 Clouds: 100 Wind Speed: 0.23
-The outcome data of Øksfjord, NO: Lat & Lon --> 70.2396,22.3479 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -1.05 & 0.51 & -1.11 Humidity: 93 Clouds: 89 Wind Speed: 3.41
-The outcome data of Monrovia, LR: Lat & Lon --> 6.3005,-10.7969 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 22.87 & 22.87 & 22.87 Humidity: 82 Clouds: 83 Wind Speed: 1.8
-The outcome data of Puerto del Rosario, ES: Lat & Lon --> 28.5004,-13.8627 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 18.86 & 18.86 & 18.82 Humidity: 68 Clouds: 20 Wind Speed: 2.06
-The outcome data of Zaragoza, ES: Lat & Lon --> 41.6561,-0.8773 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 13.46 & 14.25 & 10.06 Humidity: 70 Clouds: 0 Wind Speed: 4.92
-The outcome data of Houma, US: Lat & Lon --> 29.5958,-90.7195 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 15.16 & 16 & 14 Humidity: 43 Clouds: 1 Wind Speed: 5.14
-The outcome data of Tessalit, ML: Lat & Lon --> 20.1986,1.0114 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 23.51 & 23.51 & 23.51 Humidity: 12 Clouds: 99 Wind Speed: 3.61
-The outcome data of Bobo-Dioulasso, BF: Lat & Lon --> 11.1771,-4.2979 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 25.25 & 25.25 & 25.25 Humidity: 53 Clouds: 0 Wind Speed: 2.06
-The outcome data of Miami, US: Lat & Lon --> 25.7743,-80.1937 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 27.51 & 28.9 & 26.66 Humidity: 68 Clouds: 40 Wind Speed: 0.45
-The outcome data of Shubarkuduk, KZ: Lat & Lon --> 49.1447,56.4872 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -1.8 & -1.8 & -1.8 Humidity: 88 Clouds: 95 Wind Speed: 7.92
-The outcome data of Itatuba, BR: Lat & Lon --> -7.375,-35.6283 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 25.49 & 25.49 & 25.49 Humidity: 73 Clouds: 6 Wind Speed: 5.29
-The outcome data of Zhitnevo, RU: Lat & Lon --> 55.3423,37.9146 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 1.84 & 2.97 & 1.24 Humidity: 80 Clouds: 75 Wind Speed: 4
-The outcome data of Harper, LR: Lat & Lon --> 4.375,-7.7169 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 25.65 & 25.65 & 25.65 Humidity: 83 Clouds: 59 Wind Speed: 1.22
-The outcome data of Halifax, CA: Lat & Lon --> 44.6453,-63.5724 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 12.03 & 13 & 9.49 Humidity: 95 Clouds: 100 Wind Speed: 0.45
-The outcome data of Esperance, AU: Lat & Lon --> -33.8667,121.9 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 10.91 & 10.91 & 10.91 Humidity: 70 Clouds: 49 Wind Speed: 3.58
-The outcome data of Broken Hill, AU: Lat & Lon --> -31.95,141.4333 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 11.84 & 11.84 & 11.84 Humidity: 71 Clouds: 90 Wind Speed: 8.75
-The outcome data of Tapejara, BR: Lat & Lon --> -28.0681,-52.0139 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 19.77 & 19.77 & 19.77 Humidity: 62 Clouds: 1 Wind Speed: 2.36
-The outcome data of Corbélia, BR: Lat & Lon --> -24.7989,-53.3067 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 20.48 & 20.48 & 20.48 Humidity: 66 Clouds: 25 Wind Speed: 1.49
-The outcome data of Belyy Yar, RU: Lat & Lon --> 53.6039,91.3903 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -1.19 & -0.06 & -1.19 Humidity: 81 Clouds: 0 Wind Speed: 4
-The outcome data of Bangui, CF: Lat & Lon --> 4.3612,18.555 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 22.61 & 22.61 & 22.61 Humidity: 94 Clouds: 89 Wind Speed: 1.13
-The outcome data of Danielskuil, ZA: Lat & Lon --> -28.1887,23.5395 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 19.96 & 19.96 & 19.96 Humidity: 16 Clouds: 31 Wind Speed: 3.21
-The outcome data of Saint Anthony, US: Lat & Lon --> 45.0205,-93.218 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -1.01 & -0.03 & -2.4 Humidity: 90 Clouds: 90 Wind Speed: 0.89
-The outcome data of Pontes e Lacerda, BR: Lat & Lon --> -15.2261,-59.3353 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 25.44 & 25.44 & 25.44 Humidity: 85 Clouds: 95 Wind Speed: 1.22
-The outcome data of Hofn, IS: Lat & Lon --> 64.2539,-15.2082 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 8.85 & 8.85 & 8.85 Humidity: 97 Clouds: 100 Wind Speed: 13.19
-The outcome data of Samut Sakhon, TH: Lat & Lon --> 13.5833,100.3 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 24.77 & 26.12 & 23.99 Humidity: 91 Clouds: 98 Wind Speed: 2.21
-The outcome data of Alugan, PH: Lat & Lon --> 12.2188,125.4808 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 27.2 & 27.2 & 27.2 Humidity: 85 Clouds: 82 Wind Speed: 3.7
-The outcome data of Gaogou, CN: Lat & Lon --> 34.0175,119.1886 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 7.38 & 7.38 & 7.38 Humidity: 61 Clouds: 0 Wind Speed: 1.95
-The outcome data of Ulladulla, AU: Lat & Lon --> -35.35,150.4667 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 15.35 & 18.26 & 14.87 Humidity: 49 Clouds: 38 Wind Speed: 5.98
-The outcome data of Talcahuano, CL: Lat & Lon --> -36.7167,-73.1167 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 14.82 & 14.82 & 14.82 Humidity: 58 Clouds: 0 Wind Speed: 7.2
-The outcome data of Marfino, RU: Lat & Lon --> 55.7028,37.3822 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 2.13 & 2.83 & 1.08 Humidity: 84 Clouds: 75 Wind Speed: 3
-The outcome data of Krasnosel'kup, RU: Lat & Lon --> 65.7,82.4667 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -15.01 & -15.01 & -15.01 Humidity: 97 Clouds: 94 Wind Speed: 3.76
-The outcome data of Port Hedland, AU: Lat & Lon --> -20.3167,118.5667 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 20.03 & 20.03 & 20.03 Humidity: 60 Clouds: 6 Wind Speed: 3.6
-The outcome data of College, US: Lat & Lon --> 64.8569,-147.8028 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -18.19 & -16.51 & -20.01 Humidity: 78 Clouds: 20 Wind Speed: 0
-The outcome data of Bariloche, AR: Lat & Lon --> -41.1456,-71.3082 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 8.86 & 8.86 & 8.86 Humidity: 61 Clouds: 75 Wind Speed: 12.35
-The outcome data of Ust'-Ilimsk, RU: Lat & Lon --> 58.0006,102.6619 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -4.01 & -4.01 & -4.01 Humidity: 96 Clouds: 100 Wind Speed: 2.55
-The outcome data of Grand-Lahou, CI: Lat & Lon --> 5.1367,-5.0242 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 25.9 & 25.9 & 25.9 Humidity: 84 Clouds: 95 Wind Speed: 2.37
-The outcome data of Denpasar, ID: Lat & Lon --> -8.65,115.2167 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 25.4 & 25.81 & 25.4 Humidity: 83 Clouds: 40 Wind Speed: 1.54
-The outcome data of Yining, CN: Lat & Lon --> 29.0361,114.5636 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 7.54 & 7.54 & 7.54 Humidity: 69 Clouds: 3 Wind Speed: 0.47
-The outcome data of Iroquois Falls, CA: Lat & Lon --> 48.7669,-80.6831 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -0.92 & -0.92 & -0.92 Humidity: 83 Clouds: 100 Wind Speed: 3.99
-The outcome data of Sherpur, BD: Lat & Lon --> 25.0188,90.0175 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 17.05 & 17.05 & 17.05 Humidity: 92 Clouds: 27 Wind Speed: 1.21
-The outcome data of Castrillón, ES: Lat & Lon --> 43.3979,-6.7922 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 10.3 & 10.3 & 10.3 Humidity: 94 Clouds: 64 Wind Speed: 1.05
-The outcome data of Lashio, MM: Lat & Lon --> 22.9333,97.75 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 18.05 & 18.05 & 18.05 Humidity: 100 Clouds: 100 Wind Speed: 0.55
-The outcome data of Priargunsk, RU: Lat & Lon --> 50.3691,119.1012 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -5.4 & -5.4 & -5.4 Humidity: 77 Clouds: 4 Wind Speed: 2.04
-The outcome data of Petropavlovsk-Kamchatskiy, RU: Lat & Lon --> 53.0452,158.6483 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 0.33 & 0.33 & 0.33 Humidity: 100 Clouds: 75 Wind Speed: 2
-The outcome data of Ségou, ML: Lat & Lon --> 13.4317,-6.2157 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 27.55 & 27.55 & 27.55 Humidity: 23 Clouds: 63 Wind Speed: 4.07
-The outcome data of Kentau, KZ: Lat & Lon --> 43.5206,68.5094 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 1.44 & 1.44 & 1.44 Humidity: 59 Clouds: 83 Wind Speed: 1.01
-The outcome data of Winchester, GB: Lat & Lon --> 51.0651,-1.3187 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 10.72 & 11.47 & 9.83 Humidity: 75 Clouds: 90 Wind Speed: 2.06
-The outcome data of Roswell, US: Lat & Lon --> 34.0232,-84.3616 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 9.15 & 11.03 & 7.18 Humidity: 55 Clouds: 1 Wind Speed: 0.45
-The outcome data of Makungu, TZ: Lat & Lon --> -8.7333,35.2833 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 16.93 & 16.93 & 16.93 Humidity: 80 Clouds: 90 Wind Speed: 1.26
-The outcome data of Willowmore, ZA: Lat & Lon --> -33.2926,23.4895 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 14.36 & 14.36 & 14.36 Humidity: 66 Clouds: 18 Wind Speed: 3.31
-The outcome data of Junnar, IN: Lat & Lon --> 19.2,73.8833 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 20.64 & 20.64 & 20.64 Humidity: 74 Clouds: 35 Wind Speed: 2.22
-The outcome data of Riviere-au-Renard, CA: Lat & Lon --> 48.9957,-64.3971 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 4.16 & 7 & 4.16 Humidity: 89 Clouds: 100 Wind Speed: 4.73
-The outcome data of Den Helder, NL: Lat & Lon --> 52.9599,4.7593 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 10.41 & 11.99 & 8.87 Humidity: 98 Clouds: 90 Wind Speed: 0.89
-The outcome data of Paphos, CY: Lat & Lon --> 34.7667,32.4167 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 15.88 & 17.95 & 15.88 Humidity: 44 Clouds: 0 Wind Speed: 1.54
-The outcome data of Manakara, MG: Lat & Lon --> -22.1333,48.0167 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 24.43 & 24.43 & 24.43 Humidity: 80 Clouds: 99 Wind Speed: 5.28
-The outcome data of Tibati, CM: Lat & Lon --> 6.4667,12.6333 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 21.78 & 21.78 & 21.78 Humidity: 57 Clouds: 45 Wind Speed: 0.97
-The outcome data of Caravelas, BR: Lat & Lon --> -17.7125,-39.2481 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 20.31 & 20.31 & 20.31 Humidity: 87 Clouds: 100 Wind Speed: 5.24
-The outcome data of Rypefjord, NO: Lat & Lon --> 70.6333,23.6667 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 0.26 & 0.26 & 0.26 Humidity: 93 Clouds: 40 Wind Speed: 2.06
-The outcome data of Baghdad, IQ: Lat & Lon --> 33.3406,44.4009 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 10.95 & 10.95 & 10.95 Humidity: 66 Clouds: 0 Wind Speed: 2.06
-The outcome data of Banda Aceh, ID: Lat & Lon --> 5.5577,95.3222 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 26.15 & 26.15 & 26.15 Humidity: 80 Clouds: 100 Wind Speed: 5.5
-The outcome data of Llanes, ES: Lat & Lon --> 43.4198,-4.7549 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 12.93 & 12.93 & 12.93 Humidity: 75 Clouds: 69 Wind Speed: 0.87
-The outcome data of Petites Anses, GP: Lat & Lon --> 15.8501,-61.6442 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 25.55 & 26.88 & 24.73 Humidity: 75 Clouds: 99 Wind Speed: 7.3
-The outcome data of Sertânia, BR: Lat & Lon --> -8.0736,-37.2644 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 30.2 & 30.2 & 30.2 Humidity: 36 Clouds: 100 Wind Speed: 5.8
-The outcome data of Xichang, CN: Lat & Lon --> 27.8964,102.2634 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 9.68 & 9.68 & 9.68 Humidity: 90 Clouds: 100 Wind Speed: 0.14
-The outcome data of Ciudad Sabinas Hidalgo, MX: Lat & Lon --> 26.5,-100.1667 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 22.61 & 22.61 & 22.61 Humidity: 51 Clouds: 27 Wind Speed: 3.71
-The outcome data of Guerrero Negro, MX: Lat & Lon --> 27.9769,-114.0611 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 28.42 & 28.42 & 28.42 Humidity: 24 Clouds: 52 Wind Speed: 4.46
-The outcome data of Broome, US: Lat & Lon --> 42.2506,-75.833 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 3.41 & 5.35 & 1.66 Humidity: 76 Clouds: 90 Wind Speed: 3.13
-The outcome data of Miyako, JP: Lat & Lon --> 39.6367,141.9525 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 9.19 & 9.19 & 9.19 Humidity: 79 Clouds: 29 Wind Speed: 3.27
-The outcome data of West Bay, KY: Lat & Lon --> 19.3667,-81.4167 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 28.48 & 29.04 & 27.81 Humidity: 80 Clouds: 40 Wind Speed: 0.89
-The outcome data of Biltine, TD: Lat & Lon --> 14.5333,20.9167 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 26.81 & 26.81 & 26.81 Humidity: 17 Clouds: 0 Wind Speed: 4.53
-The outcome data of Ahipara, NZ: Lat & Lon --> -35.1667,173.1667 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 19.13 & 19.13 & 19.13 Humidity: 98 Clouds: 100 Wind Speed: 7.02
-The outcome data of Port Hawkesbury, CA: Lat & Lon --> 45.6169,-61.3485 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 12.68 & 13.99 & 11.44 Humidity: 96 Clouds: 90 Wind Speed: 2.68
-The outcome data of Pecos, US: Lat & Lon --> 31.4229,-103.4932 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 25.77 & 27.12 & 24.46 Humidity: 14 Clouds: 1 Wind Speed: 2.06
-The outcome data of Tagusao, PH: Lat & Lon --> 9.1924,117.8141 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 26.13 & 26.13 & 26.13 Humidity: 82 Clouds: 99 Wind Speed: 1.11
-The outcome data of Laguna, US: Lat & Lon --> 38.421,-121.4238 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 17.07 & 27.34 & 13.08 Humidity: 94 Clouds: 90 Wind Speed: 0
-The outcome data of Peniche, PT: Lat & Lon --> 39.3558,-9.3811 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 11.87 & 16.71 & 9.49 Humidity: 89 Clouds: 81 Wind Speed: 3.2
-The outcome data of El Salvador, SV: Lat & Lon --> 13.8333,-88.9167 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 29.02 & 29.02 & 25.22 Humidity: 70 Clouds: 92 Wind Speed: 0.49
-The outcome data of Tapalpa, MX: Lat & Lon --> 19.95,-103.7667 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 18.86 & 18.86 & 18.86 Humidity: 33 Clouds: 0 Wind Speed: 2.98
-The outcome data of Pangnirtung, CA: Lat & Lon --> 66.1451,-65.7125 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -13 & -13 & -13 Humidity: 85 Clouds: 90 Wind Speed: 3.09
-The outcome data of Río Gallegos, AR: Lat & Lon --> -51.6226,-69.2181 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 13.03 & 13.03 & 13.03 Humidity: 54 Clouds: 75 Wind Speed: 3.09
-The outcome data of Linxi, CN: Lat & Lon --> 39.7,118.4333 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 4.63 & 4.63 & 4.63 Humidity: 52 Clouds: 1 Wind Speed: 0.43
-The outcome data of Saint-Augustin, CA: Lat & Lon --> 51.226,-58.6502 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 1.15 & 1.15 & 1.15 Humidity: 98 Clouds: 100 Wind Speed: 5.54
-The outcome data of Elk City, US: Lat & Lon --> 35.412,-99.4043 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 18.54 & 19.12 & 16.38 Humidity: 22 Clouds: 1 Wind Speed: 4.12
-The outcome data of Seydi, TM: Lat & Lon --> 39.4816,62.9137 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 5.33 & 5.33 & 5.33 Humidity: 49 Clouds: 9 Wind Speed: 2.69
-The outcome data of Cherepovets, RU: Lat & Lon --> 59.1333,37.9 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -0.75 & -0.75 & -0.75 Humidity: 89 Clouds: 56 Wind Speed: 2.01
-The outcome data of Jumla, NP: Lat & Lon --> 29.2747,82.1838 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 5.61 & 5.61 & 5.61 Humidity: 23 Clouds: 0 Wind Speed: 2.35
-The outcome data of Bubaque, GW: Lat & Lon --> 11.2833,-15.8333 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 29 & 29 & 29 Humidity: 71 Clouds: 100 Wind Speed: 3.48
-The outcome data of Ust-Kuyga, RU: Lat & Lon --> 70.0167,135.6 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -19.38 & -19.38 & -19.38 Humidity: 98 Clouds: 100 Wind Speed: 2.19
-The outcome data of Gobabis, NA: Lat & Lon --> -22.45,18.9667 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 23.98 & 23.98 & 23.98 Humidity: 32 Clouds: 73 Wind Speed: 3.46
-The outcome data of Tigre, AR: Lat & Lon --> -34.426,-58.5796 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 26.97 & 27.94 & 26.08 Humidity: 52 Clouds: 0 Wind Speed: 6.17
-The outcome data of Omsukchan, RU: Lat & Lon --> 62.5333,155.8 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -5.59 & -5.59 & -5.59 Humidity: 97 Clouds: 100 Wind Speed: 1.38
-The outcome data of Hegang, CN: Lat & Lon --> 47.4,130.3667 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -9.15 & -9.15 & -9.15 Humidity: 96 Clouds: 29 Wind Speed: 1.54
-The outcome data of Bandarbeyla, SO: Lat & Lon --> 9.4942,50.8122 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 25.56 & 25.56 & 25.56 Humidity: 74 Clouds: 60 Wind Speed: 5.55
-The outcome data of Benghazi, LY: Lat & Lon --> 32.1167,20.0667 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 20.73 & 20.73 & 20.73 Humidity: 61 Clouds: 80 Wind Speed: 3.14
-The outcome data of Severo-Yeniseyskiy, RU: Lat & Lon --> 60.3725,93.0408 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -9.11 & -9.11 & -9.11 Humidity: 91 Clouds: 98 Wind Speed: 4.57
-The outcome data of Pembroke, CA: Lat & Lon --> 45.8168,-77.1162 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 5.41 & 5.66 & 4.81 Humidity: 67 Clouds: 93 Wind Speed: 3.39
-The outcome data of Sobolevo, RU: Lat & Lon --> 54.4299,31.8996 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 0.24 & 0.24 & 0.24 Humidity: 89 Clouds: 65 Wind Speed: 2.35
-The outcome data of Nabire, ID: Lat & Lon --> -3.3667,135.4833 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 25.74 & 25.74 & 25.74 Humidity: 89 Clouds: 99 Wind Speed: 1.23
-The outcome data of Salinópolis, BR: Lat & Lon --> -0.6136,-47.3561 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 26.87 & 26.87 & 26.87 Humidity: 81 Clouds: 70 Wind Speed: 4.73
-The outcome data of Kysyl-Syr, RU: Lat & Lon --> 63.8986,122.7617 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -27.75 & -27.75 & -27.75 Humidity: 99 Clouds: 27 Wind Speed: 2.02
-The outcome data of Juegang, CN: Lat & Lon --> 32.3174,121.1855 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 10.02 & 10.02 & 10.02 Humidity: 63 Clouds: 0 Wind Speed: 3.7
-The outcome data of Arak, IR: Lat & Lon --> 34.0917,49.6892 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 5.62 & 5.62 & 5.62 Humidity: 68 Clouds: 0 Wind Speed: 0.19
-The outcome data of Balkhash, KZ: Lat & Lon --> 46.844,74.9804 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 2.67 & 2.67 & 2.67 Humidity: 50 Clouds: 100 Wind Speed: 4.11
-The outcome data of Ambositra, MG: Lat & Lon --> -20.5167,47.25 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 16.62 & 16.62 & 16.62 Humidity: 93 Clouds: 100 Wind Speed: 0.77
-The outcome data of Los Llanos de Aridane, ES: Lat & Lon --> 28.6585,-17.9182 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 16.18 & 16.86 & 16.18 Humidity: 72 Clouds: 0 Wind Speed: 2.24
-The outcome data of Nemuro, JP: Lat & Lon --> 43.3236,145.575 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 8.04 & 8.04 & 8.04 Humidity: 72 Clouds: 0 Wind Speed: 3.7
-The outcome data of Mariehamn, AX: Lat & Lon --> 60.0973,19.9348 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 0.92 & 0.92 & 0.92 Humidity: 100 Clouds: 0 Wind Speed: 1.54
-The outcome data of Biak, ID: Lat & Lon --> -0.9131,122.8766 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 25.03 & 25.03 & 25.03 Humidity: 83 Clouds: 100 Wind Speed: 1.41
-The outcome data of Koungou, YT: Lat & Lon --> -12.7336,45.2042 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 25.84 & 25.84 & 25.84 Humidity: 78 Clouds: 20 Wind Speed: 2.06
-The outcome data of Faanui, PF: Lat & Lon --> -16.4833,-151.75 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 26.17 & 26.17 & 26.17 Humidity: 72 Clouds: 96 Wind Speed: 6.46
-The outcome data of Oranjestad, AW: Lat & Lon --> 12.524,-70.027 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 28.97 & 28.97 & 28.97 Humidity: 74 Clouds: 20 Wind Speed: 7.72
-The outcome data of Laem Sing, TH: Lat & Lon --> 12.4816,102.0738 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 28.41 & 28.41 & 28.41 Humidity: 86 Clouds: 97 Wind Speed: 4.19
-The outcome data of Dhidhdhoo, MV: Lat & Lon --> 6.8833,73.1 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 27.68 & 27.68 & 27.68 Humidity: 81 Clouds: 97 Wind Speed: 11.71
-The outcome data of Camalú, MX: Lat & Lon --> 30.85,-116.0667 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 25.31 & 25.31 & 25.31 Humidity: 32 Clouds: 10 Wind Speed: 2.99
-The outcome data of Yeniseysk, RU: Lat & Lon --> 58.4497,92.1703 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -4.33 & -4.33 & -4.33 Humidity: 93 Clouds: 100 Wind Speed: 3.04
-The outcome data of Taraz, KZ: Lat & Lon --> 42.9,71.3667 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 8.23 & 8.23 & 8.23 Humidity: 49 Clouds: 90 Wind Speed: 4
-The outcome data of Morehead, US: Lat & Lon --> 37.2711,-87.1764 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 4.78 & 6.11 & 3.84 Humidity: 66 Clouds: 75 Wind Speed: 0.45
-The outcome data of Balkanabat, TM: Lat & Lon --> 39.5108,54.3671 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 9.51 & 9.51 & 9.51 Humidity: 70 Clouds: 6 Wind Speed: 1.61
-The outcome data of Hurghada, EG: Lat & Lon --> 27.2574,33.8129 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 20.02 & 20.02 & 20.02 Humidity: 73 Clouds: 0 Wind Speed: 0
-The outcome data of Coolum Beach, AU: Lat & Lon --> -26.5333,153.1 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 23.37 & 23.39 & 22.84 Humidity: 41 Clouds: 0 Wind Speed: 1.69
-The outcome data of Irtyshskiy, RU: Lat & Lon --> 58.3333,68.1333 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -4.14 & -4.14 & -4.14 Humidity: 97 Clouds: 100 Wind Speed: 0.08
-The outcome data of Champerico, GT: Lat & Lon --> 14.3,-91.9167 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 29.24 & 29.87 & 28.86 Humidity: 69 Clouds: 12 Wind Speed: 2.26
-The outcome data of Puerto Escondido, MX: Lat & Lon --> 15.85,-97.0667 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 28.46 & 28.46 & 28.46 Humidity: 69 Clouds: 1 Wind Speed: 3.09
-The outcome data of Batagay-Alyta, RU: Lat & Lon --> 67.8006,130.4114 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -26.76 & -26.76 & -26.76 Humidity: 94 Clouds: 99 Wind Speed: 1.67
-The outcome data of West Fargo, US: Lat & Lon --> 46.875,-96.9004 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -2.86 & -2.77 & -3 Humidity: 92 Clouds: 90 Wind Speed: 8.75
-The outcome data of Departamento de Maldonado, UY: Lat & Lon --> -34.6667,-54.9167 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 20.66 & 21.79 & 20.66 Humidity: 66 Clouds: 0 Wind Speed: 7.79
-The outcome data of Cooma, AU: Lat & Lon --> -36.2333,149.1333 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 9.87 & 9.87 & 9.87 Humidity: 53 Clouds: 75 Wind Speed: 7.2
-The outcome data of Fort-Shevchenko, KZ: Lat & Lon --> 44.5086,50.263 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 7.92 & 7.92 & 7.92 Humidity: 66 Clouds: 28 Wind Speed: 8.21
-The outcome data of Östersund, SE: Lat & Lon --> 63.1792,14.6357 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -2.75 & -2.44 & -2.75 Humidity: 100 Clouds: 90 Wind Speed: 3.6
-The outcome data of Suifenhe, CN: Lat & Lon --> 44.4,131.1667 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -2.44 & -2.44 & -2.44 Humidity: 91 Clouds: 77 Wind Speed: 2.95
-The outcome data of Sibolga, ID: Lat & Lon --> 1.7427,98.7792 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 24.51 & 24.51 & 24.51 Humidity: 87 Clouds: 96 Wind Speed: 1.26
-The outcome data of Strezhevoy, RU: Lat & Lon --> 60.7333,77.5889 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -8.01 & -8.01 & -8.01 Humidity: 99 Clouds: 99 Wind Speed: 1.27
-The outcome data of Gombong, ID: Lat & Lon --> -7.6072,109.5142 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 26.02 & 26.02 & 26.02 Humidity: 96 Clouds: 100 Wind Speed: 1.01
-The outcome data of Amuntai, ID: Lat & Lon --> -2.4177,115.2494 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 22.55 & 22.55 & 22.55 Humidity: 99 Clouds: 100 Wind Speed: 0.67
-The outcome data of Cabinda, AO: Lat & Lon --> -5.55,12.2 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 25.93 & 25.93 & 25.93 Humidity: 85 Clouds: 100 Wind Speed: 2.49
-The outcome data of Winnemucca, US: Lat & Lon --> 40.973,-117.7357 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 18.03 & 18.03 & 16.17 Humidity: 36 Clouds: 1 Wind Speed: 0
-The outcome data of Chumikan, RU: Lat & Lon --> 54.7183,135.315 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -5.3 & -5.3 & -5.3 Humidity: 74 Clouds: 100 Wind Speed: 8.48
-The outcome data of Morón, AR: Lat & Lon --> -34.6534,-58.6198 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 26.91 & 27.79 & 25.94 Humidity: 50 Clouds: 50 Wind Speed: 2.68
-The outcome data of Nautla, MX: Lat & Lon --> 20.2167,-96.7833 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 25.79 & 25.79 & 25.79 Humidity: 64 Clouds: 8 Wind Speed: 4.43
-The outcome data of Yumen, CN: Lat & Lon --> 40.2833,97.2 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -1.91 & -1.91 & -1.91 Humidity: 41 Clouds: 51 Wind Speed: 7.15
-The outcome data of Breves, BR: Lat & Lon --> -1.6822,-50.4803 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 25.71 & 25.71 & 25.71 Humidity: 85 Clouds: 51 Wind Speed: 1.53
-The outcome data of Paris, FR: Lat & Lon --> 48.8534,2.3488 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 10.02 & 10.64 & 9.1 Humidity: 93 Clouds: 90 Wind Speed: 0.45
-The outcome data of Poopó, BO: Lat & Lon --> -18.3667,-66.9667 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 14.33 & 14.33 & 14.33 Humidity: 41 Clouds: 51 Wind Speed: 3.47
-The outcome data of Pomabamba, PE: Lat & Lon --> -8.8333,-77.4667 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 14.62 & 14.62 & 14.62 Humidity: 62 Clouds: 98 Wind Speed: 2.05
-The outcome data of Kargasok, RU: Lat & Lon --> 59.0556,80.8572 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -5.04 & -5.04 & -5.04 Humidity: 93 Clouds: 96 Wind Speed: 4.23
-The outcome data of Khandyga, RU: Lat & Lon --> 62.6667,135.6 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -19.07 & -19.07 & -19.07 Humidity: 98 Clouds: 100 Wind Speed: 1.9
-The outcome data of Nongstoin, IN: Lat & Lon --> 25.5167,91.2667 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 9.33 & 9.33 & 9.33 Humidity: 63 Clouds: 24 Wind Speed: 2.13
-The outcome data of Magomeni, TZ: Lat & Lon --> -6.8,39.25 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 25.61 & 25.61 & 25.61 Humidity: 83 Clouds: 49 Wind Speed: 2.99
-The outcome data of Bimbo, CF: Lat & Lon --> 4.2567,18.4158 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 22.08 & 22.08 & 22.08 Humidity: 96 Clouds: 92 Wind Speed: 0.96
-The outcome data of Kangaatsiaq, GL: Lat & Lon --> 68.3065,-53.4641 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: -12.5 & -12.5 & -12.5 Humidity: 87 Clouds: 25 Wind Speed: 3.66
-The outcome data of Hede, CN: Lat & Lon --> 33.7681,120.2517 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 7.6 & 7.6 & 7.6 Humidity: 70 Clouds: 0 Wind Speed: 2.92
-The outcome data of Tuxpan, MX: Lat & Lon --> 19.55,-103.4 Weather Date --> 11/13/21 Weather --> Temperature, Max Temp and Min Temp: 26.87 & 26.87 & 26.87 Humidity: 34 Clouds: 0 Wind Speed: 1.84
+city_id,city_name,country,latitude,longitude,weather_date,temp,humidity,cloudiness,wind_speed
+4032243,Vaini,TO,-21.2,-175.2,11/13/21,            24.04,70,19,4.08
+3366880,Hermanus,ZA,-34.4187,19.2345,11/13/21,            14.94,87,55,3.2
+964420,Port Elizabeth,ZA,-33.918,25.5701,11/13/21,            17.16,82,20,5.66
+2264557,Ponta do Sol,PT,32.6667,-17.1,11/13/21,            20,70,10,0.94
+1794209,Simao,CN,22.7886,100.9748,11/13/21,            15.54,99,100,1.48
+3374210,São Filipe,CV,14.8961,-24.4956,11/13/21,            23.98,72,42,3.48
+3579925,St. George's,GD,12.0564,-61.7485,11/13/21,            26.82,78,20,2.57
+5969025,Haines Junction,CA,60.7522,-137.5108,11/13/21,            -4.03,68,100,1.03
+5826559,Green River,US,41.5286,-109.4662,11/13/21,            8.44,54,24,2.68
+160660,Chalinze,TZ,-6.6378,38.354,11/13/21,            24,82,100,0.74
+2094342,Kavieng,PG,-2.5744,150.7967,11/13/21,            29.58,65,24,3.7
+2413419,Gunjur,GM,13.2019,-16.7339,11/13/21,            25.04,88,0,2.06
+4035715,Avarua,CK,-21.2078,-159.775,11/13/21,            25.03,83,75,2.57
+1519924,Kushmurun,KZ,52.4503,64.6311,11/13/21,            -0.46,97,100,5.31
+1701054,Marawi,PH,7.9986,124.2928,11/13/21,            24.25,70,98,1.01
+4030556,Rikitea,PF,-23.1203,-134.9692,11/13/21,            23.06,73,100,5.23
+2345521,Damaturu,NG,11.747,11.9608,11/13/21,            23.4,21,11,0.9
+3369157,Cape Town,ZA,-33.9258,18.4232,11/13/21,            17.71,80,0,1.79
+743881,Kastamonu Province,TR,41.5,33.6667,11/13/21,            4.68,50,100,0.23
+2025256,Chumikan,RU,54.7183,135.315,11/13/21,            -4.63,64,100,8.63
+3443061,Chui,UY,-33.6971,-53.4616,11/13/21,            17.58,72,13,7.31
+487498,Sterlibashevo,RU,53.4376,55.2578,11/13/21,            -3.59,94,81,6.03
+4020109,Atuona,PF,-9.8,-139.0333,11/13/21,            25.39,70,5,5.07
+2121385,Severo-Kuril'sk,RU,50.6789,156.125,11/13/21,            4.14,73,58,10.22
+2122614,Okha,RU,53.5739,142.9478,11/13/21,            -1.25,66,53,7.05
+6201424,Mataura,NZ,-46.1927,168.8643,11/13/21,            10.68,96,100,0.97
+1634614,Nabire,ID,-3.3667,135.4833,11/13/21,            30.34,66,86,2.24
+5110365,Broome,US,42.2506,-75.833,11/13/21,            4.2,69,40,2.24
+934322,Mahébourg,MU,-20.4081,57.7,11/13/21,            24.58,78,40,4.12
+964432,Port Alfred,ZA,-33.5906,26.891,11/13/21,            16.65,85,49,6.54
+5914132,Campbell River,CA,50.0163,-125.2446,11/13/21,            6.21,94,90,2.68
+2027316,Ayan,RU,56.45,138.1667,11/13/21,            -7.28,70,100,7.41
+1507390,Dikson,RU,73.5069,80.5464,11/13/21,            -23.51,95,33,1.95
+1638352,Lasem,ID,-6.6922,111.4527,11/13/21,            24.48,90,100,2.27
+2126123,Chokurdakh,RU,70.6333,147.9167,11/13/21,            -20.46,91,100,4.07
+3831208,Qaanaaq,GL,77.484,-69.3632,11/13/21,            -23.39,55,0,3.42
+3115824,Muros,ES,42.7762,-9.0603,11/13/21,            14.35,66,21,3
+3893726,Constitución,CL,-35.3333,-72.4167,11/13/21,            9.81,85,0,5.92
+3355672,Lüderitz,NA,-26.6481,15.1594,11/13/21,            18.25,66,0,7.72
+5572400,Susanville,US,40.4163,-120.653,11/13/21,            8.91,77,1,3.09
+1805334,Jinxiang,CN,27.4327,120.6062,11/13/21,            15.63,65,3,2.17
+3421193,Paamiut,GL,61.994,-49.6678,11/13/21,            -14.06,74,2,5.23
+1244926,Hambantota,LK,6.1241,81.1185,11/13/21,            27.22,77,27,6.54
+3874787,Punta Arenas,CL,-53.15,-70.9167,11/13/21,            9.06,71,90,3.09
+5922281,Chute-aux-Outardes,CA,49.1168,-68.399,11/13/21,            3.17,93,90,4.63
+1513491,Yangi Marg`ilon,UZ,40.4272,71.7189,11/13/21,            1.68,80,93,2.06
+3571913,Marsh Harbour,BS,26.5412,-77.0636,11/13/21,            25.9,74,100,3.72
+1562414,Vung Tau,VN,10.346,107.0843,11/13/21,            26.43,82,100,5.6
+3146487,Raudeberg,NO,61.9875,5.1352,11/13/21,            5.11,69,96,2.83
+5848280,Kapaa,US,22.0752,-159.319,11/13/21,            28.18,66,1,2.24
+3372783,Ponta Delgada,PT,37.7333,-25.6667,11/13/21,            18.61,94,75,6.17
+2022572,Khatanga,RU,71.9667,102.5,11/13/21,            -22.07,90,100,2.69
+546105,Nikolskoye,RU,59.7035,30.7861,11/13/21,            4.37,93,100,2.14
+2163355,Hobart,AU,-42.8794,147.3294,11/13/21,            13.92,54,75,7.2
+293842,Kiryat Gat,IL,31.61,34.7642,11/13/21,            23.28,29,100,3.53
+1295765,Sittwe,MM,20.15,92.9,11/13/21,            26.25,78,97,1.89
+5106841,Albany,US,42.6001,-73.9662,11/13/21,            4.09,89,10,5.13
+3495137,Pedernales,DO,18.0384,-71.744,11/13/21,            26.11,73,77,1.09
+3833367,Ushuaia,AR,-54.8,-68.3,11/13/21,            8.81,71,75,7.72
+5367788,Lompoc,US,34.6391,-120.4579,11/13/21,            24.76,69,1,2.57
+3945985,Camaná,PE,-16.6228,-72.7111,11/13/21,            18.28,80,96,3.01
+371466,Leer,SS,8.3018,30.1418,11/13/21,            23.73,60,0,1.69
+5855927,Hilo,US,19.7297,-155.09,11/13/21,            26,92,90,0
+3652764,Puerto Ayora,EC,-0.7393,-90.3518,11/13/21,            19.71,83,44,3.55
+3408424,Ipixuna,BR,-1.7625,-48.8043,11/13/21,            26.97,89,5,2.2
+8079926,Labuhan,ID,-6.8844,112.2051,11/13/21,            26.16,84,100,2.62
+986717,Kruisfontein,ZA,-34.0033,24.7314,11/13/21,            14.94,91,100,3.99
+2012530,Zhigansk,RU,66.7697,123.3711,11/13/21,            -32.85,99,44,1.78
+1651810,Airai,TL,-8.9266,125.4092,11/13/21,            22.83,70,86,0.82
+1260341,Parbhani,IN,19.2667,76.7833,11/13/21,            22.16,90,57,2.74
+2037252,Genhe,CN,50.7833,121.5167,11/13/21,            -4.34,63,11,1.06
+2377457,Nouadhibou,MR,20.931,-17.0347,11/13/21,            19.99,73,0,5.66
+6170031,Tuktoyaktuk,CA,69.4541,-133.0374,11/13/21,            -7,79,90,4.63
+2155415,New Norfolk,AU,-42.7826,147.0587,11/13/21,            13.72,64,97,3.13
+2633982,Wick,GB,58.4333,-3.0833,11/13/21,            10.03,87,100,7.72
+2291136,Bondoukou,CI,8.0333,-2.8,11/13/21,            22.66,84,6,1.81
+3380290,Sinnamary,GF,5.3833,-52.95,11/13/21,            26.08,83,37,4.33
+6167817,Torbay,CA,47.6666,-52.7314,11/13/21,            10.42,94,90,9.26
+653272,Kemijärvi,FI,66.7131,27.4306,11/13/21,            -7.11,95,14,1.65
+1735106,George Town,MY,5.4112,100.3354,11/13/21,            26.96,92,20,0
+3939761,Hualmay,PE,-11.0964,-77.6139,11/13/21,            17.68,83,60,3.35
+5282297,Bethel,US,41.3712,-73.414,11/13/21,            5.83,80,12,1.34
+2206939,Bluff,NZ,-46.6,168.3333,11/13/21,            11.62,81,99,2.74
+2208248,Kaitangata,NZ,-46.2817,169.8464,11/13/21,            10.09,97,100,1.75
+2332453,Lagos,NG,6.5833,3.75,11/13/21,            24.18,91,72,1.21
+2028078,Aginskoye,RU,51.1,114.53,11/13/21,            -3.43,61,2,4.94
+2070998,Geraldton,AU,-28.7667,114.6,11/13/21,            23.23,64,0,6.17
+1529660,Aksu,CN,41.1231,80.2644,11/13/21,            -0.1,45,0,0.65
+2017155,Saskylakh,RU,71.9167,114.0833,11/13/21,            -27.4,96,12,3.42
+2121025,Srednekolymsk,RU,67.45,153.6833,11/13/21,            -12.89,95,100,1.97
+3430443,Necochea,AR,-38.5473,-58.7368,11/13/21,            16.69,83,100,1.83
+1835848,Seoul,KR,37.5683,126.9778,11/13/21,            14.69,67,0,1.54
+1714733,Dingle,PH,10.9995,122.6711,11/13/21,            29.38,77,88,4.71
+2075265,Busselton,AU,-33.65,115.3333,11/13/21,            20.9,43,94,6.91
+4034551,Faanui,PF,-16.4833,-151.75,11/13/21,            26.27,70,100,5.7
+3408368,Acaraú,BR,-2.8856,-40.12,11/13/21,            26.74,80,20,4.84
+5122534,Jamestown,US,42.097,-79.2353,11/13/21,            2.62,99,90,5.36
+2468245,Carthage,TN,36.8611,10.3316,11/13/21,            10.74,87,20,1.03
+2110227,Butaritari,KI,3.0707,172.7902,11/13/21,            27.94,74,24,6.86
+5134295,Rome,US,43.2128,-75.4557,11/13/21,            4.35,93,90,0
+2654970,Brae,GB,60.3964,-1.353,11/13/21,            9.95,90,100,9.19
+1790437,Zhuhai,CN,22.2769,113.5678,11/13/21,            22.25,53,0,6.17
+234178,Bundibugyo,UG,0.7414,30.0417,11/13/21,            18.98,81,37,1.08
+5557293,Sitka,US,57.0531,-135.33,11/13/21,            2.94,87,75,1.54
+2030065,Mandalgovi,MN,45.7625,106.2708,11/13/21,            -1.55,36,6,0.93
+556268,Ostrovnoy,RU,68.0531,39.5131,11/13/21,            -3.95,94,100,9.43
+3372707,Ribeira Grande,PT,38.5167,-28.7,11/13/21,            17.49,63,100,9.59
+3361934,Saldanha,ZA,-33.0117,17.9442,11/13/21,            16.1,88,18,5.57
+2514651,Los Llanos de Aridane,ES,28.6585,-17.9182,11/13/21,            16.86,71,20,3.13
+2126785,Belaya Gora,RU,68.5333,146.4167,11/13/21,            -19.72,99,94,0.55
+110690,Faya,SA,18.3851,42.4509,11/13/21,            11.06,49,1,0.35
+2171099,Codrington,AU,-38.2667,141.9667,11/13/21,            11.71,61,93,10.32
+1528998,Yumen,CN,40.2833,97.2,11/13/21,            0.33,34,100,7.4
+2381972,Adrar,MR,20.5022,-10.0711,11/13/21,            22.85,43,39,3.74
+2173125,Burnie,AU,-41.0667,145.9167,11/13/21,            9.2,90,98,8.66
+5880054,Barrow,US,71.2906,-156.7887,11/13/21,            -7.99,67,90,5.66
+3466165,Cidreira,BR,-30.1811,-50.2056,11/13/21,            19.41,74,0,11.54
+4946620,Palmer,US,42.1584,-72.3287,11/13/21,            5.35,73,40,0.89
+2729907,Longyearbyen,SJ,78.2186,15.6401,11/13/21,            -12.09,52,20,5.66
+3421719,Narsaq,GL,60.9167,-46.05,11/13/21,            -7.88,82,2,2.06
+1180729,Dalbandin,PK,28.8947,64.4101,11/13/21,            13,17,0,2.52
+1090225,Koungou,YT,-12.7336,45.2042,11/13/21,            25.84,78,0,3.6
+3883457,Lebu,CL,-37.6167,-73.65,11/13/21,            9.86,83,1,3.35
+935215,Saint-Philippe,RE,-21.3585,55.7679,11/13/21,            23.75,84,100,5.75
+1337619,Ugoofaaru,MV,5.6667,73,11/13/21,            27.9,79,68,10.02
+3646190,Catia La Mar,VE,10.6038,-67.0303,11/13/21,            25.11,88,40,0.51
+2068110,Kununurra,AU,-15.7667,128.7333,11/13/21,            33.99,27,73,4.63
+2136825,Isangel,VU,-19.55,169.2667,11/13/21,            28.06,78,75,2.57
+3664301,Envira,BR,-7.3,-70.2167,11/13/21,            23.05,88,95,1.07
+3985710,Cabo San Lucas,MX,22.8909,-109.9124,11/13/21,            26.4,73,21,1.8
+4955336,Weymouth,US,42.2209,-70.9398,11/13/21,            7.62,85,90,1.34
+286621,Salalah,OM,17.0151,54.0924,11/13/21,            22.05,49,0,1.54
+2109528,Buala,SB,-8.145,159.5921,11/13/21,            30.46,64,22,2.29
+3385077,Conde,BR,-7.2597,-34.9075,11/13/21,            25.7,78,20,3.6
+1500036,Makushino,RU,55.2103,67.2442,11/13/21,            -4.23,97,99,1.76
+1571058,Phan Thiet,VN,10.9333,108.1,11/13/21,            26.91,80,99,2.56
+2436400,Ati,TD,13.2154,18.3353,11/13/21,            27.36,15,5,5.19
+2255564,Ouésso,CG,1.6136,16.0517,11/13/21,            21.03,99,100,1.02
+3894426,Coyhaique,CL,-45.5752,-72.0662,11/13/21,            9.97,62,0,2.57
+107304,Buraidah,SA,26.326,43.975,11/13/21,            17.25,39,87,3.91
+5866583,Saint Paul Harbor,US,57.79,-152.4072,11/13/21,            -2.27,69,90,2.57
+3893629,Coquimbo,CL,-29.9533,-71.3436,11/13/21,            14.85,77,0,2.57
+6089245,Norman Wells,CA,65.282,-126.8329,11/13/21,            -9.98,85,90,3.6
+2512186,Puerto del Rosario,ES,28.5004,-13.8627,11/13/21,            16.86,72,2,3.09
+510347,Pestravka,RU,52.405,49.9583,11/13/21,            0.62,88,100,5.39
+4032369,Pangai,TO,-19.8,-174.35,11/13/21,            25.64,78,42,5.26
+3448903,São João da Barra,BR,-21.6403,-41.0511,11/13/21,            19.78,66,100,3.31
+2174444,Bowen,AU,-20.0167,148.2333,11/13/21,            29.12,47,61,5.45
+235826,Zemio,CF,5.0314,25.1361,11/13/21,            20.59,90,51,1.3
+3347019,Mossamedes,AO,-15.1961,12.1522,11/13/21,            20.38,86,63,2.31
+1282256,Hithadhoo,MV,-0.6,73.0833,11/13/21,            27.9,75,100,6
+4036284,Alofi,NU,-19.0595,-169.9187,11/13/21,            25.94,78,14,2.57
+5942913,Dryden,CA,49.7833,-92.7503,11/13/21,            -3.84,86,90,2.06
+2126710,Beringovskiy,RU,63.05,179.3167,11/13/21,            -2.78,97,98,1.01
+161974,Bereket,TM,39.2446,55.5154,11/13/21,            8.67,76,3,2.85
+3347353,Menongue,AO,-14.6585,17.691,11/13/21,            18.76,78,90,1.71
+5859699,College,US,64.8569,-147.8028,11/13/21,            -17.62,79,20,0
+933815,Dekar,BW,-21.5333,21.9333,11/13/21,            24.98,32,50,2.22
+2245170,Podor,MR,16.6527,-14.9587,11/13/21,            28.25,33,96,3.68
+2334008,Kontagora,NG,10.3999,5.4695,11/13/21,            24.01,45,45,1.22
+2611738,Thyborøn,DK,56.6985,8.2124,11/13/21,            7.9,92,100,7.31
+1819729,Hong Kong,HK,22.2855,114.1577,11/13/21,            22.4,54,0,1.79
+1259385,Port Blair,IN,11.6667,92.75,11/13/21,            25.02,94,90,1.03
+3354071,Oranjemund,NA,-28.55,16.4333,11/13/21,            15.84,89,0,4.14
+3421982,Maniitsoq,GL,65.4167,-52.9,11/13/21,            -10.47,59,0,3.85
+5423092,Glenwood Springs,US,39.5505,-107.3248,11/13/21,            8.89,79,1,5.66
+3374083,Bathsheba,BB,13.2167,-59.5167,11/13/21,            27.34,74,20,7.2
+8010683,Porto Santo,PT,33.072,-16.3415,11/13/21,            19.61,72,40,3.09
+3466704,Castro,BR,-24.7911,-50.0119,11/13/21,            10.62,94,95,4.34
+2119283,Zyryanka,RU,65.75,150.85,11/13/21,            -15.37,94,100,4.19
+2618795,Klaksvík,FO,62.2266,-6.589,11/13/21,            9.51,96,100,16.29
+4021858,Guerrero Negro,MX,27.9769,-114.0611,11/13/21,            21.46,47,80,3.34
+4016734,Bucerías,MX,20.75,-105.3333,11/13/21,            27.99,74,1,2.06
+2013279,Vostok,RU,46.4856,135.8833,11/13/21,            -0.6,91,100,1.3
+2361177,Djibo,BF,14.1022,-1.6306,11/13/21,            25.85,17,12,4.16
+3014383,Guéret,FR,46.1667,1.8667,11/13/21,            8.35,98,100,1.09
+1626703,Soe,ID,-9.8607,124.284,11/13/21,            26.55,66,100,1.82
+5906229,Botwood,CA,49.1499,-55.3482,11/13/21,            10.73,94,100,5.37
+1526384,Boralday,KZ,43.3578,76.8594,11/13/21,            -0.08,74,40,2
+3141310,Rørvik,NO,64.8621,11.2373,11/13/21,            3.61,71,27,2.84
+2063036,Port Lincoln,AU,-34.7333,135.8667,11/13/21,            13.69,54,94,8.4
+1015776,Bredasdorp,ZA,-34.5322,20.0403,11/13/21,            11.82,91,82,0.63
+1717787,Catuday,PH,16.2923,119.8062,11/13/21,            27.74,75,94,3.86
+152877,Mtambile,TZ,-5.3833,39.7,11/13/21,            25.63,79,100,3.33
+4705349,Laredo,US,27.5064,-99.5075,11/13/21,            21.58,34,1,2.57
+3418910,Upernavik,GL,72.7868,-56.1549,11/13/21,            -16.07,95,55,2.51
+2027296,Aykhal,RU,66,111.5,11/13/21,            -22.66,97,100,3.57
+4031637,Lavrentiya,RU,65.5833,-171,11/13/21,            -10.26,95,56,2.51
+612652,Ochamchira,GE,42.7121,41.4721,11/13/21,            9.38,64,1,1.52
+2445704,Diffa,NE,13.3154,12.6113,11/13/21,            26.26,19,12,3.98
+3430863,Mar del Plata,AR,-38.0023,-57.5575,11/13/21,            18.94,90,90,0.89
+3513563,Kralendijk,BQ,12.15,-68.2667,11/13/21,            27.99,78,79,4.63
+1649150,Bengkulu,ID,-3.8004,102.2655,11/13/21,            26.62,77,98,1.48
+2038087,Chengde,CN,40.9725,117.9361,11/13/21,            4.81,55,0,1.41
+3424607,Tasiilaq,GL,65.6145,-37.6368,11/13/21,            1.09,92,100,6.17
+7671223,Kloulklubed,PW,7.0419,134.2556,11/13/21,            26.28,83,100,4.71
+1006984,East London,ZA,-33.0153,27.9116,11/13/21,            17.84,73,5,5.8
+4255151,Bud,US,39.447,-86.1758,11/13/21,            3.01,76,75,2.92
+4285268,Bowling Green,US,36.9903,-86.4436,11/13/21,            1.51,87,6,2.31
+2065594,Mount Isa,AU,-20.7333,139.5,11/13/21,            23.87,22,0,7.2
+1510377,Belyy Yar,RU,53.6039,91.3903,11/13/21,            0.94,83,40,3
+6185377,Yellowknife,CA,62.456,-114.3525,11/13/21,            -2.71,100,90,2.57
+1630639,Pringsewu,ID,-5.3582,104.9744,11/13/21,            29.84,62,50,1.16
+2033225,Zhalantun,CN,48,122.7167,11/13/21,            -0.18,67,99,2.74
+3421765,Nanortalik,GL,60.1432,-45.2371,11/13/21,            -5.46,69,6,13.48
+3373652,Oistins,BB,13.0667,-59.5333,11/13/21,            27.05,74,20,7.2
+1511997,Aktash,RU,50.3,87.7333,11/13/21,            -12.15,85,95,2.77
+3420846,Qaqortoq,GL,60.7167,-46.0333,11/13/21,            -7.72,82,4,1.74
+3166509,Siniscola,IT,40.5719,9.6922,11/13/21,            11.75,75,90,1.78
+5847411,Kahului,US,20.8947,-156.47,11/13/21,            30.59,58,40,5.66
+5044290,Saint Anthony,US,45.0205,-93.218,11/13/21,            0.08,91,90,1.34
+2018735,Nyurba,RU,63.2842,118.3319,11/13/21,            -23.17,94,13,2.14
+2240449,Luanda,AO,-8.8368,13.2343,11/13/21,            26,78,75,2.57
+3471451,Arraial do Cabo,BR,-22.9661,-42.0278,11/13/21,            20.14,61,100,3.91
+3407407,Aquiraz,BR,-3.9014,-38.3911,11/13/21,            30.12,66,73,6.66
+527321,Mezen',RU,65.8522,44.24,11/13/21,            -5.42,85,100,3.91
+3372760,Praia da Vitória,PT,38.7333,-27.0667,11/13/21,            15.42,100,75,8.09
+2361342,Diébougou,BF,10.9667,-3.25,11/13/21,            24.03,21,7,0.69
+4556050,Woodward,US,36.4337,-99.3904,11/13/21,            12.76,39,1,3.6
+3150261,Kirkenær,NO,60.4564,12.0582,11/13/21,            0.71,91,11,1.63
+6176226,Warman,CA,52.3168,-106.5679,11/13/21,            -6.05,92,1,3.09
+2649738,Fairlie,GB,55.756,-4.8556,11/13/21,            8.34,91,100,2.78
+5527953,Pampa,US,35.5362,-100.9599,11/13/21,            18.53,33,1,1.54
+1516589,Zhezkazgan,KZ,47.8043,67.7144,11/13/21,            -1.42,64,100,6.81
+2755485,Goedereede,NL,51.8175,3.9806,11/13/21,            11.67,88,10,4.3
+2381334,Atar,MR,20.5169,-13.0499,11/13/21,            25.43,37,49,0.55
+2035836,Manzhouli,CN,49.6,117.4333,11/13/21,            -3.44,59,3,4.03
+4844309,Torrington,US,41.8007,-73.1212,11/13/21,            5.1,90,79,0.45
+1106677,Bambous Virieux,MU,-20.3428,57.7575,11/13/21,            24.56,78,40,4.12
+590552,Loksa,EE,59.5764,25.7214,11/13/21,            1.34,88,100,1.91
+2152659,Port Macquarie,AU,-31.4333,152.9167,11/13/21,            24.94,25,0,4.36
+4677526,Burkburnett,US,34.0979,-98.5706,11/13/21,            14.4,47,1,4.12
+2122090,Pevek,RU,69.7008,170.3133,11/13/21,            -12.97,87,100,1.23
+5364271,Laguna,US,38.421,-121.4238,11/13/21,            19.01,94,75,2.06
+3416888,Grindavik,IS,63.8424,-22.4338,11/13/21,            9.97,93,90,15.43
+610864,Khani,GE,41.9563,42.9566,11/13/21,            -2.24,50,6,2.44
+377472,Bentiu,SS,9.2333,29.8333,11/13/21,            24.56,59,0,1.27
+6057842,Lively,CA,46.4334,-81.1498,11/13/21,            1.45,89,22,3.22
+2264923,Peniche,PT,39.3558,-9.3811,11/13/21,            15.71,93,45,3.12
+2136697,Lakatoro,VU,-16.0999,167.4164,11/13/21,            28.92,72,13,4.48
+1235846,Matara,LK,5.9485,80.5353,11/13/21,            26.7,82,56,4.33
+3175096,Laas,IT,46.6166,10.7002,11/13/21,            7.49,99,100,0.49
+2399888,Lambaréné,GA,-0.7001,10.2406,11/13/21,            22.73,97,100,1.65
+3372472,Vila Franca do Campo,PT,37.7167,-25.4333,11/13/21,            18.44,94,100,6.41
+2015306,Tiksi,RU,71.6872,128.8694,11/13/21,            -22.48,100,97,2.18
+698247,Ostër,UA,50.9506,30.8823,11/13/21,            2.66,86,100,3.43
+2074865,Carnarvon,AU,-24.8667,113.6333,11/13/21,            24.04,69,0,4.12
+6050066,La Ronge,CA,55.1001,-105.2842,11/13/21,            -4.86,86,90,2.06
+1503153,Klyuchi,RU,52.2667,79.1667,11/13/21,            -1.53,75,100,4.65
+1255816,Sompeta,IN,18.9333,84.6,11/13/21,            24.9,91,99,3.41
+1568770,Quang Ngai,VN,15.1167,108.8,11/13/21,            22.59,98,100,2.9
+2126199,Cherskiy,RU,68.75,161.3,11/13/21,            -6.92,95,100,1.22
+1498920,Mezhdurechensk,RU,53.6942,88.0603,11/13/21,            -0.63,98,100,1.61
+2177069,Ballina,AU,-28.8667,153.5667,11/13/21,            26.1,36,0,5.66
+6137462,Saint-Augustin,CA,51.226,-58.6502,11/13/21,            0.88,91,100,3.22
+932183,Quthing,LS,-30.4,27.7003,11/13/21,            14.22,61,4,1.83
+3984997,San Quintín,MX,30.4833,-115.95,11/13/21,            19.88,54,0,1.61
+795243,Snezhnogorsk,RU,69.1933,33.2531,11/13/21,            -5.12,69,97,5.41
+3628473,San Cristobal,VE,7.7669,-72.225,11/13/21,            24.1,87,62,0.36
+2181625,Te Anau,NZ,-45.4167,167.7167,11/13/21,            10.17,95,100,0.79
+1800146,Nanchong,CN,30.7951,106.0847,11/13/21,            13.26,59,71,1.28
+2725123,Arvika,SE,59.6553,12.5852,11/13/21,            1.39,95,4,1.6
+1254046,Tura,IN,25.5198,90.2201,11/13/21,            19.34,75,2,0.78
+4589446,North Myrtle Beach,US,33.816,-78.68,11/13/21,            16.68,91,1,1.54
+5012495,Traverse City,US,44.7631,-85.6206,11/13/21,            4.11,93,90,0
+1039536,Maxixe,MZ,-23.8597,35.3472,11/13/21,            21.41,92,49,1.96
+1045114,Inhambane,MZ,-23.865,35.3833,11/13/21,            22.1,90,47,2.51
+5509851,Pahrump,US,36.2083,-115.9839,11/13/21,            20.8,28,5,0.45
+1640902,Kawalu,ID,-7.3817,108.2082,11/13/21,            22.95,95,100,1.06
+5343202,Discovery Bay,US,37.9085,-121.6002,11/13/21,            21.23,83,5,1.05
+3573899,Point Fortin,TT,10.1833,-61.6833,11/13/21,            25.96,82,10,5.37
+2023350,Kabansk,RU,52.0486,106.6528,11/13/21,            -6.73,81,100,1.58
+3866163,Alta Gracia,AR,-31.6529,-64.4283,11/13/21,            16.51,81,98,6.28
+5546220,Saint George,US,37.1041,-113.5841,11/13/21,            18.33,39,1,0
+4031574,Provideniya,RU,64.3833,-173.3,11/13/21,            -5.74,97,95,1.16
+3576994,Cockburn Town,TC,21.4612,-71.1419,11/13/21,            26.98,69,40,2.57
+2191562,Dunedin,NZ,-45.8742,170.5036,11/13/21,            12.67,66,100,1.34
+1067565,Beloha,MG,-25.1667,45.05,11/13/21,            20.04,92,4,2.05
+1164045,Talhar,PK,24.8833,68.8167,11/13/21,            20.15,23,1,0.89
+2122493,Omsukchan,RU,62.5333,155.8,11/13/21,            -4.48,96,100,1.64
+1490796,Strezhevoy,RU,60.7333,77.5889,11/13/21,            -9.01,96,100,2.47
+2194098,Ahipara,NZ,-35.1667,173.1667,11/13/21,            20.95,78,99,6.65
+3408274,Afogados da Ingazeira,BR,-7.7508,-37.6392,11/13/21,            25.37,64,100,6.68
+3645532,Ciudad Bolivar,VE,8.1222,-63.5497,11/13/21,            26.22,72,58,5.33
+5530022,San Angelo,US,31.4638,-100.437,11/13/21,            17.45,50,1,0.45
+3899695,Ancud,CL,-41.8697,-73.8203,11/13/21,            10.79,89,100,5.79
+2644122,Llandrindod Wells,GB,52.2416,-3.3787,11/13/21,            8.56,93,12,0.62
+2643044,Margate,GB,51.3813,1.3862,11/13/21,            11.09,90,100,1.79
+1636426,Manggar,ID,-2.8833,108.2667,11/13/21,            29.01,72,95,2.52
+3674292,Mosquera,CO,4.7059,-74.2302,11/13/21,            13.05,94,75,1.54
+3125287,Cervo,ES,43.6702,-7.4101,11/13/21,            13.31,90,24,3.17
+2025241,Churapcha,RU,62.0025,132.4325,11/13/21,            -22.54,94,100,2.72
+3868626,Valparaíso,CL,-33.0393,-71.6273,11/13/21,            15.8,51,0,2.57
+934649,Cap Malheureux,MU,-19.9842,57.6142,11/13/21,            24.7,74,99,2.24
+5972762,Hay River,CA,60.8156,-115.7999,11/13/21,            -2.01,86,90,5.14
+3451138,Rio Grande,BR,-32.035,-52.0986,11/13/21,            18.96,74,0,10.44
+2953525,Bad Driburg,DE,51.7333,9.0167,11/13/21,            6.5,93,100,1.14
+4013724,Camargo,MX,27.6667,-105.1667,11/13/21,            18.71,40,0,4.25
+2347758,Bara,NG,10.3744,10.7288,11/13/21,            23.54,25,96,1.02
+2643123,Manchester,GB,53.4809,-2.2374,11/13/21,            10.69,93,90,1.03
+6620339,Karratha,AU,-20.7377,116.8463,11/13/21,            31.49,20,7,6.22
+2128975,Nemuro,JP,43.3236,145.575,11/13/21,            11.24,80,40,6.45
+5983720,Iqaluit,CA,63.7506,-68.5145,11/13/21,            -21.15,77,20,7.72
+3441243,Paysandu,UY,-32.3214,-58.0756,11/13/21,            28.11,54,100,8.2
+1168700,Ormara,PK,25.2088,64.6357,11/13/21,            24.1,44,0,2.64
+1028434,Quelimane,MZ,-17.8786,36.8883,11/13/21,            25.92,89,100,2.73
+3983805,Santa Rosalía,MX,27.3167,-112.2833,11/13/21,            21.26,42,26,1.41
+2071860,Esperance,AU,-33.8667,121.9,11/13/21,            16.91,48,37,3.12
+3668257,Saravena,CO,6.9538,-71.8752,11/13/21,            23.33,85,80,1.2
+3384481,Distrikt Brokopondo,SR,4.75,-55.1667,11/13/21,            24.7,91,95,3.29
+2520645,Cabra,ES,37.4725,-4.4421,11/13/21,            13,78,20,1.21
+1529651,Altay,CN,47.8667,88.1167,11/13/21,            -0.39,86,100,1.34
+3382160,Cayenne,GF,4.9333,-52.3333,11/13/21,            26.72,87,0,0.45
+1166062,Sarai Sidhu,PK,30.5949,71.9698,11/13/21,            15.87,20,0,2.24
+1855612,Nara,JP,34.6851,135.8049,11/13/21,            15.54,52,96,2.15
+700159,Mykolayivka,UA,47.5414,30.7561,11/13/21,            4.37,80,100,3.56
+1591474,Bac Lieu,VN,9.285,105.7244,11/13/21,            26.43,85,100,5.99
+1861280,Itoman,JP,26.1247,127.6694,11/13/21,            22.01,78,75,7.72
+1159716,Sarakhs,IR,36.5449,61.1577,11/13/21,            6.89,64,7,2.42
+1633034,Palu,ID,-0.8917,119.8707,11/13/21,            27.62,79,100,1.11
+1490256,Talnakh,RU,69.4865,88.3972,11/13/21,            -12.72,94,100,4.19
+5861897,Fairbanks,US,64.8378,-147.7164,11/13/21,            -17.61,79,1,0
+3388760,São Geraldo do Araguaia,BR,-6.4006,-48.555,11/13/21,            26.76,67,75,0.83
+2282006,San-Pédro,CI,4.7485,-6.6363,11/13/21,            24.63,88,97,1.34
+5164449,New Waterford,US,40.8451,-80.6145,11/13/21,            4.13,71,100,2.68
+2640377,Penzance,GB,50.1186,-5.5371,11/13/21,            11.56,87,46,3.17
+2022129,Kichera,RU,55.9375,110.0997,11/13/21,            -8.23,80,93,0.46
+2180815,Tuatapere,NZ,-46.1333,167.6833,11/13/21,            13.64,75,92,1.65
+6165406,Thompson,CA,55.7435,-97.8558,11/13/21,            -4.91,80,75,1.03
+6943827,Thetford Mines,CA,46.0913,-71.3013,11/13/21,            4.97,99,100,1.64
+3833062,Venado Tuerto,AR,-33.7456,-61.9688,11/13/21,            16.01,93,100,7.34
+4176380,Venice,US,27.0998,-82.4543,11/13/21,            21.67,84,90,5.66
+3467371,Capâo Bonito,BR,-24.0058,-48.3494,11/13/21,            11.25,97,51,3.18
+2400547,Gamba,GA,-2.65,10,11/13/21,            23.75,93,100,2.33
+3466980,Caravelas,BR,-17.7125,-39.2481,11/13/21,            20.44,82,100,4.52
+3865086,Bahía Blanca,AR,-38.7196,-62.2724,11/13/21,            14.7,92,94,5.03
+2638419,Scarborough,GB,54.2797,-0.4044,11/13/21,            10.85,90,99,0.89
+3615813,Villa Sandino,NI,12.0483,-84.9936,11/13/21,            21.4,92,7,2.83
+2112802,Hasaki,JP,35.7333,140.8333,11/13/21,            17.38,57,81,7.7
+1520253,Zharkent,KZ,44.1628,80,11/13/21,            3.06,49,51,1.42
+5746545,Portland,US,45.5234,-122.6762,11/13/21,            14.69,95,90,0.45
+1636308,Manokwari,ID,-0.8667,134.0833,11/13/21,            28.68,74,100,2.48
+4033356,Tiarei,PF,-17.5333,-149.3333,11/13/21,            29.01,65,62,4.3
+3440777,Rocha,UY,-34.4833,-54.3333,11/13/21,            16.16,79,54,7.17
+100926,Umluj,SA,25.0213,37.2685,11/13/21,            24.22,59,97,1.07
+3684683,El Carmen,CO,8.5106,-73.4478,11/13/21,            19.68,95,98,1.76
+6149996,Smithers,CA,54.7804,-127.1743,11/13/21,            0.18,93,75,0
+5797693,Hoquiam,US,46.9809,-123.8893,11/13/21,            12.74,68,90,6.17
+2033196,Zhangjiakou,CN,40.81,114.8794,11/13/21,            1.6,60,0,1.78
+2427336,Moussoro,TD,13.6408,16.4901,11/13/21,            27.03,16,15,4.39
+3841956,Paraná,AR,-31.732,-60.5238,11/13/21,            20.31,97,100,9.77
+5983607,Inuvik,CA,68.3499,-133.7218,11/13/21,            -10.44,92,75,2.57
+5641727,Bozeman,US,45.6796,-111.0386,11/13/21,            8.43,54,90,0.89
+143127,Arak,IR,34.0917,49.6892,11/13/21,            4.59,70,60,0.66
+3577154,Oranjestad,AW,12.524,-70.027,11/13/21,            27.97,78,20,7.2
+2304548,Anloga,GH,5.7947,0.8973,11/13/21,            27.12,80,16,3.64
+4392354,Jasper,US,37.2001,-94.3502,11/13/21,            7.79,53,40,1.79
+2033536,Yakeshi,CN,49.2833,120.7333,11/13/21,            -3.17,71,9,2.51
+2112309,Katsuura,JP,35.1333,140.3,11/13/21,            18.99,64,64,7.66
+1274987,Kannur,IN,11.8675,75.3576,11/13/21,            24.69,92,100,4.29
+72181,Marzuq,YE,14.4,46.4667,11/13/21,            16.44,24,1,1.27
+5129852,Oneonta,US,42.4529,-75.0638,11/13/21,            3.5,91,96,4.8
+3670218,San Andrés,CO,12.5847,-81.7006,11/13/21,            28.01,78,75,5.14
+1606983,Rong Kwang,TH,18.339,100.3174,11/13/21,            25.01,70,97,0.34
+1625929,Sungai Penuh,ID,-2.0833,101.3833,11/13/21,            21.33,82,100,1.16
+5359864,Isla Vista,US,34.4133,-119.861,11/13/21,            25.38,43,1,2.57
+4944903,Nantucket,US,41.2835,-70.0995,11/13/21,            11.03,78,1,15.2
+4543342,Muskogee,US,35.5834,-95.3336,11/13/21,            9.63,58,1,2.06
+3654410,Manta,EC,-0.95,-80.7333,11/13/21,            20.88,88,20,3.09
+2450173,Taoudenni,ML,22.6783,-3.9836,11/13/21,            24.03,16,58,2.68
+1168312,Pasni,PK,25.2631,63.471,11/13/21,            24.74,32,0,3.61
+1246294,Galle,LK,6.0367,80.217,11/13/21,            27.48,80,60,5.32
+3402648,Carutapera,BR,-1.195,-46.02,11/13/21,            26.46,74,7,3.22
+1280957,Jiayuguan City,CN,39.8167,98.3,11/13/21,            2.05,26,86,0.8
+3006414,La Seyne-sur-Mer,FR,43.0982,5.8847,11/13/21,            13.27,69,1,6.06
+2630299,Hofn,IS,64.2539,-15.2082,11/13/21,            8.72,98,100,8.51
+1852357,Shimoda,JP,34.6667,138.95,11/13/21,            18.2,57,62,5.85
+88533,Awjilah,LY,29.1081,21.2869,11/13/21,            17.85,58,49,4.04
+2088122,Port Moresby,PG,-9.4431,147.1797,11/13/21,            31.68,70,75,5.66
+108410,Riyadh,SA,24.6877,46.7219,11/13/21,            15.08,48,4,2.06
+4033375,Tevaitoa,PF,-16.7833,-151.5,11/13/21,            26.14,68,100,5.78
+2372532,Gabú,GW,12.2833,-14.2167,11/13/21,            26.16,36,100,1.46
+5113760,Corning,US,42.1428,-77.0547,11/13/21,            4.92,77,90,3.09
+4845585,Westport,US,41.1415,-73.3579,11/13/21,            6.98,80,1,0.45
+6111862,Port Hardy,CA,50.6996,-127.4199,11/13/21,            7,93,90,11.83
+1861416,Ishigaki,JP,24.3448,124.1572,11/13/21,            22.07,83,75,9.26
+4218882,Rincon,US,32.296,-81.2354,11/13/21,            15.95,76,1,2.57
+2037485,Erenhot,CN,43.6475,111.9767,11/13/21,            -1.57,63,0,1.65
+1274270,Chicalim,IN,15.4,73.8333,11/13/21,            25.79,89,75,1.03
+2156643,Mount Gambier,AU,-37.8333,140.7667,11/13/21,            11.95,71,40,7.72
+3395497,Maracaçumé,BR,-2.0428,-45.9592,11/13/21,            23.57,92,12,1.26
+2667628,Tranås,SE,58.0372,14.9782,11/13/21,            6.43,98,85,2.25
+1631905,Payakumbuh,ID,-0.2202,100.6308,11/13/21,            25.62,73,97,0.94
+933685,Kanye,BW,-24.9667,25.3327,11/13/21,            19.81,43,72,2.67
+2017215,Sangar,RU,63.9242,127.4739,11/13/21,            -31.08,99,79,1.21
+5261969,Marshfield,US,44.6689,-90.1718,11/13/21,            -0.15,69,90,2.06
+1504382,Kargasok,RU,59.0556,80.8572,11/13/21,            -5.31,96,100,2.84
+1267390,Kavaratti,IN,10.5669,72.642,11/13/21,            27.55,79,100,5.94
+504269,Pudozh,RU,61.8099,36.5345,11/13/21,            -1.27,83,100,2.01
+1024552,Xai-Xai,MZ,-25.0519,33.6442,11/13/21,            22.51,82,95,2.26
+3389381,Santana do Matos,BR,-5.9575,-36.6556,11/13/21,            25.95,69,0,5.16
+239300,Gambo,CF,4.6482,22.2633,11/13/21,            20.16,98,96,1
+1489661,Tevriz,RU,57.509,72.4042,11/13/21,            -3.31,98,100,0.63
+1733502,Ranau,MY,5.9538,116.6641,11/13/21,            26.36,69,98,0.32
+962367,Richards Bay,ZA,-28.783,32.0377,11/13/21,            20.75,90,100,3.94
+3573374,The Valley,AI,18.217,-63.0578,11/13/21,            27.83,73,69,8.75
+1252668,Ziro,IN,27.6333,93.8333,11/13/21,            6.41,61,1,0.87
+3453478,Pitanga,BR,-24.7572,-51.7614,11/13/21,            14.19,84,97,3.46
+1850523,Tateyama,JP,34.9833,139.8667,11/13/21,            18.94,62,88,8.04
+531383,Malaya Serdoba,RU,52.4661,44.9512,11/13/21,            1.33,89,100,4.82
+624079,Orsha,BY,54.5153,30.4053,11/13/21,            0.66,88,100,2.63
+2206894,Hokitika,NZ,-42.7167,170.9667,11/13/21,            15.22,86,87,5.96
+2408683,Gorahun,SL,7.4661,-11.2375,11/13/21,            23.41,91,100,1.07
+1000543,Graaff-Reinet,ZA,-32.2522,24.5308,11/13/21,            13.29,89,100,0.86
+2014624,Udachny,RU,66.4167,112.4,11/13/21,            -27.94,99,90,2.7
+3068222,Plasy,CZ,49.9345,13.3904,11/13/21,            7.91,99,100,0.24
+780687,Berlevåg,NO,70.8578,29.0864,11/13/21,            -1,86,100,5.59
+1855476,Nichinan,JP,31.6,131.3667,11/13/21,            15.82,65,100,2.08
+2412749,Sika,GM,13.3546,-16.345,11/13/21,            25.08,55,100,1.87
+2160735,Lakes Entrance,AU,-37.8811,147.981,11/13/21,            18.42,43,63,6.94
+2293342,Adzopé,CI,6.1069,-3.8619,11/13/21,            22.26,98,51,1.01
+6945992,Betsiamites,CA,48.9413,-68.646,11/13/21,            4.94,94,99,5.44
+3723593,Jérémie,HT,18.65,-74.1167,11/13/21,            26.41,81,86,1.45
+478297,Usogorsk,RU,63.4106,48.6872,11/13/21,            -9.92,96,34,1.96
+921786,Mitsamiouli,KM,-11.3847,43.2844,11/13/21,            26.46,73,39,5.93
+2192362,Christchurch,NZ,-43.5333,172.6333,11/13/21,            16.29,80,90,0.89
+6690296,Saint-Joseph,RE,-21.3667,55.6167,11/13/21,            23.2,81,100,3.93
+1632694,Pangkalanbuun,ID,-2.6833,111.6167,11/13/21,            26.65,87,100,0.79
+6539851,Rossano,IT,39.5751,16.6349,11/13/21,            11.9,84,99,2.12
+2449893,Tessalit,ML,20.1986,1.0114,11/13/21,            22.11,13,99,3.44
+5381110,Paramount,US,33.8895,-118.1598,11/13/21,            29.67,45,1,0.45
+4205615,Liberty,US,31.8335,-81.5004,11/13/21,            15.14,36,1,2.57
+226110,Tororo,UG,0.693,34.1809,11/13/21,            17.98,70,4,1.82
+3832791,Villa Carlos Paz,AR,-31.4241,-64.4978,11/13/21,            15.69,90,95,3.58
+3664078,Humaitá,BR,-7.5061,-63.0208,11/13/21,            22.11,97,100,0.98
+1783621,Zunyi,CN,27.6867,106.9072,11/13/21,            9.78,68,95,0.86
+5961417,Gimli,CA,50.6336,-96.9907,11/13/21,            -1.99,93,100,3.6
+777019,Vardø,NO,70.3705,31.1107,11/13/21,            -0.24,66,90,6.45
+4469160,Greenville,US,35.6127,-77.3663,11/13/21,            13.96,46,1,2.57
+4074736,Marshall,US,34.3834,-86.3333,11/13/21,            4.86,78,1,0
+5422191,Fountain,US,38.6822,-104.7008,11/13/21,            16.12,29,1,2.57
+245669,Adré,TD,13.4667,22.2,11/13/21,            22.79,19,0,6.02
+1278969,Along,IN,28.1667,94.7667,11/13/21,            17.68,54,25,0.34
+1639337,Kroya,ID,-7.6331,109.2461,11/13/21,            25.76,86,100,1.26
+2092164,Lorengau,PG,-2.0226,147.2712,11/13/21,            28.44,78,86,2.83
+5387890,Riverside,US,33.7333,-116.0508,11/13/21,            25.6,31,1,1.54
+3585968,El Salvador,SV,13.8333,-88.9167,11/13/21,            22.22,92,8,1.6
+3932145,Pisco,PE,-13.7,-76.2167,11/13/21,            18.34,82,40,4.12
+2137773,Vao,NC,-22.6667,167.4833,11/13/21,            24.98,78,5,2.86
+914959,Kalulushi,ZM,-12.8378,28.0919,11/13/21,            17.63,79,77,0.93
+2644210,Liverpool,GB,53.4106,-2.9779,11/13/21,            9.27,91,40,0
+3386213,Touros,BR,-5.1989,-35.4608,11/13/21,            27.5,79,15,7.05
+3897774,Buin,CL,-33.7333,-70.75,11/13/21,            18.02,54,0,1.18
+5411479,Alamosa,US,37.4695,-105.87,11/13/21,            8.73,42,1,1.54
+933313,Mokobeng,BW,-22.9965,27.6678,11/13/21,            23.37,49,96,2.53
+3580477,West Bay,KY,19.3667,-81.4167,11/13/21,            27.04,86,20,1.54
+2629833,Husavik,IS,66.0449,-17.3389,11/13/21,            6.95,92,74,6.86
+5742974,North Bend,US,43.4065,-124.2243,11/13/21,            16.07,97,90,2.57
+2027276,Babushkin,RU,51.7122,105.8647,11/13/21,            1.15,72,100,2.41
+1516048,Khovd,MN,48.0056,91.6419,11/13/21,            -2.31,51,31,2.82
+3533462,Acapulco de Juárez,MX,16.8634,-99.8901,11/13/21,            25.69,78,0,2.97
+514739,Orshanka,RU,56.9161,47.8933,11/13/21,            -3.17,84,100,4.1
+3520994,Puerto Escondido,MX,15.85,-97.0667,11/13/21,            27.46,74,1,0
+3466692,Catanduva,BR,-21.1378,-48.9728,11/13/21,            23.16,51,13,5.51
+2035601,Mergen,CN,49.1833,125.2167,11/13/21,            -2.39,71,3,2.77
+5468773,Gallup,US,35.5281,-108.7426,11/13/21,            11.42,39,1,2.06
+2412408,Nioro,GM,13.35,-15.75,11/13/21,            27.17,38,100,1.08
+146214,Paphos,CY,34.7667,32.4167,11/13/21,            20.95,36,90,2.57
+2720679,Bollnäs,SE,61.3482,16.3946,11/13/21,            0.22,93,21,1.8
+2120048,Ust-Nera,RU,64.5667,143.2,11/13/21,            -16.15,99,100,1.76
+477940,Ust-Tsilma,RU,65.441,52.1498,11/13/21,            -4.95,80,100,3.79
+1260417,Papanasam,IN,10.9333,79.2833,11/13/21,            26.34,87,100,2.57
+5924618,Cochrane,CA,51.1834,-114.4687,11/13/21,            4.58,45,90,5.66
+3347719,Luena,AO,-11.7833,19.9167,11/13/21,            16.52,88,97,1.11
+1582886,Kwang Binh,VN,17.4833,106.6,11/13/21,            21.29,82,100,3.93
+3870282,Talcahuano,CL,-36.7167,-73.1167,11/13/21,            12.82,71,0,5.66
+933995,Souillac,MU,-20.5167,57.5167,11/13/21,            24.64,78,40,4.12
+2305537,Agogo,GH,6.8,-1.0819,11/13/21,            21.3,96,14,1.71
+370737,Malakal,SS,9.5334,31.6605,11/13/21,            25.01,58,4,1.39
+2126682,Bilibino,RU,68.0546,166.4372,11/13/21,            -11.48,91,100,2.27
+3414079,Olafsvik,IS,64.8945,-23.7142,11/13/21,            8.71,88,100,16.57
+964349,Potchefstroom,ZA,-26.7167,27.1,11/13/21,            17.41,49,0,3.66
+523662,Nadvoitsy,RU,63.8667,34.3167,11/13/21,            -0.96,96,100,3.28
+3459088,Laje,BR,-10.1833,-40.9667,11/13/21,            22.81,77,56,5.55
+746565,Görele,TR,41.0308,39.0031,11/13/21,            10.69,58,95,1.9
+3929611,San Jerónimo,PE,-11.9472,-75.2829,11/13/21,            9.29,89,100,0.71
+2210554,Sirte,LY,31.2089,16.5887,11/13/21,            20.99,51,97,6.87
+1214026,Sabang,ID,5.8933,95.3214,11/13/21,            27.65,76,100,8.38
+2510599,Tarifa,ES,36.0139,-5.607,11/13/21,            17.01,80,13,7.18
+2418092,Lola,GN,7.8,-8.5333,11/13/21,            20.88,92,87,0.63
+6355222,Yulara,AU,-25.2406,130.9889,11/13/21,            22.91,25,0,4.63
+463355,Zheleznodorozhnyy,RU,55.7503,38.0042,11/13/21,            2.98,89,100,1.27
+780717,Båtsfjord,NO,70.6345,29.7185,11/13/21,            -2.87,83,88,3.32
+2023584,Imeni Poliny Osipenko,RU,52.4201,136.4853,11/13/21,            -5.79,72,80,3.09
+2063042,Port Hedland,AU,-20.3167,118.5667,11/13/21,            34.03,8,6,8.75
+5261852,Marinette,US,45.1,-87.6307,11/13/21,            2.27,60,90,2.57
+2171722,Charters Towers,AU,-20.1,146.2667,11/13/21,            29.33,19,3,2.17
+4007503,El Sauzal de Rodríguez,MX,31.9,-116.6833,11/13/21,            18.56,68,0,0.43
+1731298,Aloleng,PH,16.1307,119.7824,11/13/21,            29.24,71,74,4.03
+3461888,Guarapari,BR,-20.6667,-40.4975,11/13/21,            17.94,78,100,2.03
+1170294,Mirpur Mathelo,PK,28.0227,69.5489,11/13/21,            19.52,15,0,2.35
+2635199,Ullapool,GB,57.8987,-5.1604,11/13/21,            10.75,83,100,3.37
+2021980,Klyuchevskiy,RU,53.5317,119.4519,11/13/21,            -6.89,59,10,0.69
+4726521,San Patricio,US,28.017,-97.5169,11/13/21,            18.8,43,3,3.34
+1059051,Miandrivazo,MG,-19.5167,45.4667,11/13/21,            25.16,76,42,0.5
+496285,Severodvinsk,RU,64.5635,39.8302,11/13/21,            -7.94,75,100,5.07
+1485020,Znamenskoye,RU,57.1281,73.8282,11/13/21,            -2.53,97,100,2.91
+709665,Dovbysh,UA,50.3733,27.9874,11/13/21,            3.18,95,100,4.14
+1214488,Meulaboh,ID,4.1363,96.1285,11/13/21,            26.89,77,97,1.17
+3174050,Province of Mantua,IT,45.1667,10.7833,11/13/21,            12.64,91,100,3.13
+6096551,Pangnirtung,CA,66.1451,-65.7125,11/13/21,            -18.85,87,94,2.08
+3910094,Monteagudo,BO,-19.8167,-63.9833,11/13/21,            21.53,79,100,1.4
+2313762,Libenge,CD,3.65,18.6333,11/13/21,            21.82,98,100,2.21
+1638775,Payo,ID,-3.7508,103.6372,11/13/21,            24.54,91,100,0.07
+5711847,Astoria,US,46.1879,-123.8313,11/13/21,            14.36,96,90,3.58
+5882953,Aklavik,CA,68.2191,-135.0107,11/13/21,            -11.54,90,100,5.01
+1498129,Myski,RU,53.709,87.8014,11/13/21,            -0.28,96,100,2.16
+5870133,Nome,US,64.5011,-165.4064,11/13/21,            -5.96,80,90,2.57
+5563839,Fortuna,US,40.5982,-124.1573,11/13/21,            14.68,71,40,0.45
+1488429,Uray,RU,60.1247,64.7758,11/13/21,            -6.81,93,100,4.75
+3391889,Pitimbu,BR,-7.4706,-34.8086,11/13/21,            26.33,68,80,6.01
+3981391,Tomatlán,MX,19.9333,-105.25,11/13/21,            23.21,86,5,1.22
+1254709,Tezu,IN,27.9167,96.1667,11/13/21,            21.16,35,2,0.31
+1812256,Dongsheng,CN,39.8161,109.9776,11/13/21,            1.93,25,0,5.95
+3423146,Ilulissat,GL,69.2167,-51.1,11/13/21,            -26.84,74,6,3.02
+2657324,Andover,GB,51.2083,-1.4825,11/13/21,            11.28,85,90,2.24
+2120612,Tigil',RU,57.8,158.6667,11/13/21,            0.52,98,100,1.2
+3449747,Santa Vitória do Palmar,BR,-33.5189,-53.3681,11/13/21,            17.78,72,10,7.7
+2172880,Byron Bay,AU,-28.65,153.6167,11/13/21,            26.06,33,0,2.59
+2025325,Chkalovskoye,RU,44.8392,133.0436,11/13/21,            2.13,95,100,2.99
+694273,Shchors,UA,51.8186,31.945,11/13/21,            0.08,92,100,3.08
+6111867,Port Hawkesbury,CA,45.6169,-61.3485,11/13/21,            10.66,99,90,1.79
+2123814,Leningradskiy,RU,69.3833,178.4167,11/13/21,            -17.35,99,98,1.27
+2635650,Torquay,GB,50.4638,-3.5143,11/13/21,            11.51,90,8,1.34
+4004293,Ixtapa,MX,20.7,-105.2,11/13/21,            22.52,91,3,1.04
+2738381,Lata,PT,40.1629,-8.3327,11/13/21,            13.23,71,11,1.62
+2645525,Kincardine,GB,56.0667,-3.7167,11/13/21,            8.44,97,81,1.12
+1269177,Jashpurnagar,IN,22.9,84.15,11/13/21,            19.01,95,100,0.73
+187968,Malindi,KE,-3.2175,40.1191,11/13/21,            25.71,82,92,3.98
+779330,Kautokeino,NO,69.0125,23.0412,11/13/21,            -14.32,97,14,2.18
+3359638,Walvis Bay,NA,-22.9575,14.5053,11/13/21,            14.49,88,1,2.06
+3398381,Icatu,BR,-2.7758,-44.0658,11/13/21,            28.24,86,6,2.69
+2173911,Broken Hill,AU,-31.95,141.4333,11/13/21,            14.84,38,75,10.8
+1729007,Bagontapay,PH,6.8589,124.9089,11/13/21,            29.16,77,100,1.12
+2014836,Tupik,RU,54.4253,119.9327,11/13/21,            -7.56,73,39,0.49
+1798827,Pingdingshan,CN,33.7385,113.3012,11/13/21,            14.39,30,0,1.93
+3860443,Comodoro Rivadavia,AR,-45.8667,-67.5,11/13/21,            17.92,27,0,11.32
+264481,Asopós,GR,36.7333,22.8667,11/13/21,            14.15,78,100,1.42
+3351663,Benguela,AO,-12.5763,13.4055,11/13/21,            24.43,82,89,1.53
+1788852,Xining,CN,36.6167,101.7667,11/13/21,            -1.08,49,58,1.27
+2093846,Kiunga,PG,-6.1219,141.2906,11/13/21,            33.74,49,87,1.36
+3354077,Opuwo,NA,-18.0607,13.84,11/13/21,            24.05,49,99,1.89
+709584,Druzhba,UA,52.0428,33.9453,11/13/21,            -0.53,89,70,2.63
+2155562,Nelson Bay,AU,-32.7167,152.15,11/13/21,            23.89,36,1,2.24
