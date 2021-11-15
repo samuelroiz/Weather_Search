@@ -59,3 +59,10 @@ The following image displays the southern latitude versus humidity with a red li
 
 The following image displays the southern latitude versus cloudiness with a red line across its data points. The red line represents the regression and predicts information placements if other information was added. The regression is positive and its data is all over the place. In the soutern and nothern hemisphere, cloudiness does not play a factor when it depends on the latitude. 
 
+## Vacation_Code
+
+### Google Map Heat Map
+![Google Map](https://github.com/samuelroiz/Weather_Search/blob/main/Images/South_Latitude_Vs_Cloudiness.png)
+
+### Google Map of Hotels
+![Google Map of Hotels](https://github.com/samuelroiz/Weather_Search/blob/main/Images/google_map_hotel.png)
