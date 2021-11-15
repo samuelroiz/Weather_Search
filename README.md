@@ -52,7 +52,7 @@ The following image displays the southern latitude versus temperature with a red
 #### S. Latitude vs Humidity
 ![Southern Latitude vs Humidity](https://github.com/samuelroiz/Weather_Search/blob/main/Images/South_Latitude_Vs_Humidity.png)
 
-The following image displays the southern latitude versus humidity with a red line across its data points. The red line represents the regression and predicts information placements if other information was added.  
+The following image displays the southern latitude versus humidity with a red line across its data points. The red line represents the regression and predicts information placements if other information was added. The humidity of sothern hemisphere does not depend on the latitude. It is random. 
 
 #### S. Latitude vs Cloudiness
 ![Southern Latitude vs Cloudiness](https://github.com/samuelroiz/Weather_Search/blob/main/Images/South_Latitude_Vs_Cloudiness.png)
