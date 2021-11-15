@@ -47,7 +47,7 @@ The following image displays the northern latitude versus cloudiness with a red 
 #### S. Latitude vs Temperature
 ![Southern Latitude vs Temperature](https://github.com/samuelroiz/Weather_Search/blob/main/Images/South_Latitude_Vs_Temperature.png)
 
-The following image displays the southern latitude versus temperature with a red line across its data points. The red line represents the regression and predicts information placements if other information was added. 
+The following image displays the southern latitude versus temperature with a red line across its data points. The red line represents the regression and predicts information placements if other information was added. As the latitude decreases, the hotter the temperature it is. It has the opposite effect of the northern hemisphere.  
 
 #### S. Latitude vs Humidity
 ![Southern Latitude vs Humidity](https://github.com/samuelroiz/Weather_Search/blob/main/Images/South_Latitude_Vs_Humidity.png)
