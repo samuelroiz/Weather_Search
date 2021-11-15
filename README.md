@@ -42,3 +42,20 @@ The following image displays the northern latitude versus humidity with a red li
 
 The following image displays the northern latitude versus cloudiness with a red line across its data points. The red line represents the regression and predicts information placements if other information was added. The regression is positive and its data is all over the place. In the northern hemisphere, cloudiness does not play a factor when it depends on the latitude. 
 
+### Southern Hemisphere
+
+#### S. Latitude vs Temperature
+![Southern Latitude vs Temperature](https://github.com/samuelroiz/Weather_Search/blob/main/Images/South_Latitude_Vs_Temperature.png)
+
+The following image displays the southern latitude versus temperature with a red line across its data points. The red line represents the regression and predicts information placements if other information was added. 
+
+#### S. Latitude vs Humidity
+![Southern Latitude vs Humidity](https://github.com/samuelroiz/Weather_Search/blob/main/Images/South_Latitude_Vs_Humidity.png)
+
+The following image displays the southern latitude versus humidity with a red line across its data points. The red line represents the regression and predicts information placements if other information was added.  
+
+#### S. Latitude vs Cloudiness
+![Southern Latitude vs Cloudiness](https://github.com/samuelroiz/Weather_Search/blob/main/Images/South_Latitude_Vs_Cloudiness.png)
+
+The following image displays the southern latitude versus cloudiness with a red line across its data points. The red line represents the regression and predicts information placements if other information was added. The regression is positive and its data is all over the place. In the soutern and nothern hemisphere, cloudiness does not play a factor when it depends on the latitude. 
+
