@@ -3,7 +3,7 @@
 ## About Project
 Find and retrieve data by using python and Jupiter notebook. In the code, apply the given api_keys and data to find what the company only wants to see. For example, they want to display the temperature of London, England. The images of data display relationships of the two chosen variables and their r-squared. The other images also portray the google maps of hotels and hot spots indicators. 
 
-Down below will have two seperate sections of content. Each content will have a list of codes and graphs or  
+Down below will have two seperate sections of content. Each content will have a list of codes and graphs or google maps. 
 
 
 
