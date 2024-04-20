@@ -3,11 +3,11 @@
 ## About the Project
 This project involves creating a Python script using Jupyter Notebook to analyze the financial records of a company. The analysis will determine the company's financial health, indicating whether it is profitable and identifying which months are most favorable for the company.
 
-![Financial Data Code](https://github.com/samuelroiz/Financial_Data_for_Company_Town/blob/main/Financial_Analysis/Images/Example_Code_Outcome.png)
+![Latitude vs Temperature](https://github.com/samuelroiz/Weather_Search/blob/main/Images/Latitude_Vs_Temperature.png)
 
 The above image shows the outcome of the company's financial data analysis. The script calculates the company's profit and the average monthly profit. It also identifies the months with minimum and maximum profits or losses to determine which months are most and least favorable for the company.
 
-![Election Data Code](https://github.com/samuelroiz/Financial_Data_for_Company_Town/blob/main/Town_Election/Images/Example_Code_Outcome_Town_Election.png)
+![Latitude vs Humidity](https://github.com/samuelroiz/Weather_Search/blob/main/Images/Latitude_Vs_Humidity.png)
 
 This image represents the results of analyzing the data from the town election. The script indicates that Khan won with at least 60 percent of the votes, while O'Tooley received the fewest votes.
 
